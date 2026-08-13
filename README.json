@@ -1,0 +1,293 @@
+{
+  "items": [
+    {
+      "description": "Libraries for building intuitive drag-and-drop interactions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Beautiful DnD: A powerful and beautiful drag-and-drop library for lists with React.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-08-18T04:35:31Z",
+            "owner": "atlassian",
+            "repo": "react-beautiful-dnd",
+            "stars": 33952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SortableJS: A React wrapper for SortableJS, a library for reorderable drag-and-drop lists.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-06T13:47:48Z",
+            "owner": "SortableJS",
+            "repo": "react-sortablejs",
+            "stars": 2173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Dragula: A drag-and-drop library for React based on Dragula.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-09T17:28:40Z",
+            "owner": "bevacqua",
+            "repo": "react-dragula",
+            "stars": 997
+          }
+        }
+      ],
+      "title": "Drag & Drop"
+    },
+    {
+      "description": "Render massive lists and grids without sacrificing performance.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Virtualized: A set of React components for efficiently rendering large lists and tabular data.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-20T21:42:24Z",
+            "owner": "bvaughn",
+            "repo": "react-virtualized",
+            "stars": 27080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Virtua: A virtual list and grid library for React.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T01:01:49Z",
+            "owner": "inokawa",
+            "repo": "virtua",
+            "stars": 3715
+          }
+        }
+      ],
+      "title": "Virtualization"
+    },
+    {
+      "description": "Playback, recording, and programmatic video creation.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Player: A React component for playing a variety of URLs, including YouTube, SoundCloud, and more.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-13T19:27:44Z",
+            "owner": "cookpete",
+            "repo": "react-player",
+            "stars": 10280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Webcam: A React component for accessing the user's webcam.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-10T15:04:48Z",
+            "owner": "mozmorris",
+            "repo": "react-webcam",
+            "stars": 1751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Sound: A sound component to play audio in your React applications.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-19T08:12:01Z",
+            "owner": "leoasis",
+            "repo": "react-sound",
+            "stars": 490
+          }
+        }
+      ],
+      "title": "Audio & Video"
+    },
+    {
+      "description": "Manage meta tags, titles, and structured data for better discoverability.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Helmet: A reusable React component that manages changes to the document head.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-18T19:57:38Z",
+            "owner": "nfl",
+            "repo": "react-helmet",
+            "stars": 17462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next SEO: A plugin that makes managing SEO easier in Next.js projects.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T19:47:06Z",
+            "owner": "garmeeh",
+            "repo": "next-seo",
+            "stars": 8507
+          }
+        }
+      ],
+      "title": "Search Engine Optimization"
+    },
+    {
+      "description": "Essential helpers for dates, logging, immutability, and more.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Winston: A logger for just about everything.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T19:12:28Z",
+            "owner": "winstonjs",
+            "repo": "winston",
+            "stars": 24506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clsx: A tiny utility for constructing className strings conditionally in React components.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-10T15:48:22Z",
+            "owner": "lukeed",
+            "repo": "clsx",
+            "stars": 9832
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "Spinners, tooltips, command menus, image tools, and other useful additions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Image Crop: A responsive image cropping tool for React.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-21T18:33:47Z",
+            "owner": "dominictobias",
+            "repo": "react-image-crop",
+            "stars": 4104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Compare Image: React component to compare two images with a slider",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T03:48:55Z",
+            "owner": "tam315",
+            "repo": "react-compare-image",
+            "stars": 406
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "Integrate language models and run ML inference directly in your React app.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenAI Node SDK: Official OpenAI SDK for TypeScript/JavaScript to integrate GPT models into your React applications.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:06:34Z",
+            "owner": "openai",
+            "repo": "openai-node",
+            "stars": 11111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anthropic SDK: Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:54:53Z",
+            "owner": "anthropics",
+            "repo": "anthropic-sdk-typescript",
+            "stars": 2078
+          }
+        }
+      ],
+      "title": "AI & LLM Integration"
+    },
+    {
+      "description": "Contributions are welcome! If you know a library or tool that belongs here, feel free to open an issue or submit a pull request. Please check the contributing guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contributors"
+    },
+    {
+      "description": "MIT — see the LICENSE file for details.\nMade with care for the React community · If you find it useful, consider leaving a ⭐\ndayan.perez9012@gmail.com · @dayanDev · LinkedIn",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:23:45.740Z",
+    "original_repository": "drbarzaga/React-Toolkit",
+    "original_repository_sha": "bc7528bedcaebc7f4561b84536f3ffd2316ded0c",
+    "enhanced_repository": "enhansome/enhansome-React-Toolkit",
+    "enhanced_repository_description": null,
+    "title": "Awesome React Toolkit with stars"
+  }
+}
