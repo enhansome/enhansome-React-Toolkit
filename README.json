@@ -158,7 +158,7 @@
             "last_commit": "2026-07-29T19:47:06Z",
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8510
+            "stars": 8512
           }
         }
       ],
@@ -178,7 +178,7 @@
             "last_commit": "2026-07-20T19:12:28Z",
             "owner": "winstonjs",
             "repo": "winston",
-            "stars": 24507
+            "stars": 24506
           }
         },
         {
@@ -243,10 +243,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T03:24:44Z",
+            "last_commit": "2026-08-15T13:16:31Z",
             "owner": "openai",
             "repo": "openai-node",
-            "stars": 11113
+            "stars": 11117
           }
         },
         {
@@ -257,10 +257,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T22:44:02Z",
+            "last_commit": "2026-08-14T22:42:36Z",
             "owner": "anthropics",
             "repo": "anthropic-sdk-typescript",
-            "stars": 2079
+            "stars": 2084
           }
         }
       ],
@@ -283,7 +283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:19:52.072Z",
+    "last_updated": "2026-08-15T13:42:04.242Z",
     "original_repository": "drbarzaga/React-Toolkit",
     "original_repository_sha": "bc7528bedcaebc7f4561b84536f3ffd2316ded0c",
     "enhanced_repository": "enhansome/enhansome-React-Toolkit",
