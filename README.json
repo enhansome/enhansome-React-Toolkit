@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 99761907,
             "language": "JavaScript",
             "last_commit": "2025-08-18T04:35:31Z",
             "owner": "atlassian",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53563895,
             "language": "TypeScript",
             "last_commit": "2023-12-06T13:47:48Z",
             "owner": "SortableJS",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40202688,
             "language": "JavaScript",
             "last_commit": "2020-09-09T17:28:40Z",
             "owner": "bevacqua",
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45431898,
             "language": "JavaScript",
             "last_commit": "2025-01-20T21:42:24Z",
             "owner": "bvaughn",
             "repo": "react-virtualized",
-            "stars": 27079
+            "stars": 27080
           }
         },
         {
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 549650165,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T04:01:53Z",
+            "last_commit": "2026-08-19T10:20:55Z",
             "owner": "inokawa",
             "repo": "virtua",
-            "stars": 3717
+            "stars": 3718
           }
         }
       ],
@@ -92,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40963709,
             "language": "TypeScript",
             "last_commit": "2025-11-13T19:27:44Z",
             "owner": "cookpete",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27957693,
             "language": "TypeScript",
             "last_commit": "2026-03-10T15:04:48Z",
             "owner": "mozmorris",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37271100,
             "language": "JavaScript",
             "last_commit": "2024-08-19T08:12:01Z",
             "owner": "leoasis",
@@ -140,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37627792,
             "language": "JavaScript",
             "last_commit": "2023-07-18T19:57:38Z",
             "owner": "nfl",
@@ -154,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137128945,
             "language": "TypeScript",
             "last_commit": "2026-07-29T19:47:06Z",
             "owner": "garmeeh",
@@ -174,11 +184,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1206546,
             "language": "JavaScript",
             "last_commit": "2026-07-20T19:12:28Z",
             "owner": "winstonjs",
             "repo": "winston",
-            "stars": 24504
+            "stars": 24503
           }
         },
         {
@@ -188,11 +199,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163027171,
             "language": "JavaScript",
             "last_commit": "2024-06-10T15:48:22Z",
             "owner": "lukeed",
             "repo": "clsx",
-            "stars": 9832
+            "stars": 9831
           }
         }
       ],
@@ -208,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43984013,
             "language": "TypeScript",
             "last_commit": "2026-06-21T18:33:47Z",
             "owner": "dominictobias",
@@ -222,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134489592,
             "language": "TypeScript",
             "last_commit": "2026-08-18T00:10:07Z",
             "owner": "tam315",
@@ -242,11 +256,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 438419937,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T13:36:43Z",
+            "last_commit": "2026-08-19T01:12:35Z",
             "owner": "openai",
             "repo": "openai-node",
-            "stars": 11123
+            "stars": 11125
           }
         },
         {
@@ -256,35 +271,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 595176353,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:49:00Z",
+            "last_commit": "2026-08-18T17:53:37Z",
             "owner": "anthropics",
             "repo": "anthropic-sdk-typescript",
-            "stars": 2091
+            "stars": 2092
           }
         }
       ],
       "title": "AI & LLM Integration"
-    },
-    {
-      "description": "Contributions are welcome! If you know a library or tool that belongs here, feel free to open an issue or submit a pull request. Please check the contributing guidelines first.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Contributors"
-    },
-    {
-      "description": "MIT — see the LICENSE file for details.\nMade with care for the React community · If you find it useful, consider leaving a ⭐\ndayan.perez9012@gmail.com · @dayanDev · LinkedIn",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:55:33.580Z",
+    "last_updated": "2026-08-19T12:12:12.654Z",
     "original_repository": "drbarzaga/React-Toolkit",
+    "original_repository_id": 880326116,
     "original_repository_sha": "732244de336d237033bfa188406a7402cd5640df",
     "enhanced_repository": "enhansome/enhansome-React-Toolkit",
     "enhanced_repository_description": null,
