@@ -168,7 +168,7 @@
             "last_commit": "2026-07-29T19:47:06Z",
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8510
+            "stars": 8511
           }
         }
       ],
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 595176353,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:53:37Z",
+            "last_commit": "2026-08-19T13:29:36Z",
             "owner": "anthropics",
             "repo": "anthropic-sdk-typescript",
             "stars": 2092
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:12:12.654Z",
+    "last_updated": "2026-08-19T13:56:07.622Z",
     "original_repository": "drbarzaga/React-Toolkit",
     "original_repository_id": 880326116,
     "original_repository_sha": "732244de336d237033bfa188406a7402cd5640df",

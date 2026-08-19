@@ -117,7 +117,7 @@ Essential libraries and tools for building modern React applications.
 *The starting point — directly from the React team.*
 
 * **[React Website](https://react.dev/)**
-* **[React Repository](https://github.com/facebook/react) ⭐ 247,420 | 🐛 1,250 | 🌐 JavaScript | 📅 2026-08-19**
+* **[React Repository](https://github.com/facebook/react) ⭐ 247,420 | 🐛 1,251 | 🌐 JavaScript | 📅 2026-08-19**
 * **[React Community](https://react.dev/community)**
 * **[React Blog](https://react.dev/blog)**
 * **[React Conferences](https://react.dev/community/conferences)**
@@ -250,7 +250,7 @@ Essential libraries and tools for building modern React applications.
 * **[useHooks](https://usehooks.com/)**: A collection of reusable React hooks.
 * **[usehooks-ts](https://usehooks-ts.com/)**: React hook library, ready to use, written in Typescript.
 * **[Novajs](https://novajs.dev/)**: A collection of dependency-free React hooks.
-* **[React Use](https://github.com/streamich/react-use) ⭐ 44,017 | 🐛 663 | 🌐 TypeScript | 📅 2026-06-10**: A library of essential React hooks.
+* **[React Use](https://github.com/streamich/react-use) ⭐ 44,019 | 🐛 663 | 🌐 TypeScript | 📅 2026-06-10**: A library of essential React hooks.
 * **[ahooks](https://ahooks.js.org/)**: A set of high-quality and reliable React hooks.
 
 ## Notifications
@@ -408,7 +408,7 @@ Essential libraries and tools for building modern React applications.
 *Manage meta tags, titles, and structured data for better discoverability.*
 
 * **[React Helmet](https://github.com/nfl/react-helmet) ⭐ 17,462 | 🐛 220 | 🌐 JavaScript | 📅 2023-07-18**: A reusable React component that manages changes to the document head.
-* **[Next SEO](https://github.com/garmeeh/next-seo) ⭐ 8,510 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-29**: A plugin that makes managing SEO easier in Next.js projects.
+* **[Next SEO](https://github.com/garmeeh/next-seo) ⭐ 8,511 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-29**: A plugin that makes managing SEO easier in Next.js projects.
 * **[React Meta Tags](https://www.npmjs.com/package/react-meta-tags)**: A library for managing meta tags in React applications.
 
 ## Validations
@@ -460,7 +460,7 @@ Essential libraries and tools for building modern React applications.
 * **[Cypress](https://www.cypress.io/)**: Fast, easy and reliable testing for anything that runs in a browser.
 * **[React Testing Library](https://testing-library.com/)**: Simple and complete testing utilities that encourage good testing practices.
 * **[Mock Service Worker](https://mswjs.io/)**: API mocking library that intercepts requests on the network level for seamless testing and development.
-* **[agent-qa](https://github.com/vostride/agent-qa) ⭐ 943 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03**: Self-improving QA agent for natural-language browser tests with persistent memory and self-healing execution.
+* **[agent-qa](https://github.com/vostride/agent-qa) ⭐ 945 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03**: Self-improving QA agent for natural-language browser tests with persistent memory and self-healing execution.
 
 ## Documentation
 
@@ -553,7 +553,7 @@ Essential libraries and tools for building modern React applications.
 *Integrate language models and run ML inference directly in your React app.*
 
 * **[OpenAI Node SDK](https://github.com/openai/openai-node) ⭐ 11,125 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-19**: Official OpenAI SDK for TypeScript/JavaScript to integrate GPT models into your React applications.
-* **[Anthropic SDK](https://github.com/anthropics/anthropic-sdk-typescript) ⭐ 2,092 | 🐛 52 | 🌐 TypeScript | 📅 2026-08-18**: Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.
+* **[Anthropic SDK](https://github.com/anthropics/anthropic-sdk-typescript) ⭐ 2,092 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-19**: Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.
 * **[Vercel AI SDK](https://sdk.vercel.ai/)**: The AI Toolkit for TypeScript. Build AI-powered products with React streaming UI and LLM integrations.
 * **[Markstream](https://markstream.simonhe.me/)**: Open-source streaming Markdown renderer for React AI chat interfaces, with incomplete-token handling, Mermaid, KaTeX, syntax highlighting, safe HTML, SSR, and React 18/19 support.
 * **[LangChain.js](https://js.langchain.com/)**: A framework for developing applications powered by language models in JavaScript and TypeScript.
@@ -577,7 +577,7 @@ Essential libraries and tools for building modern React applications.
 * **[Turborepo](https://turbo.build/repo)**: High-performance build system for JavaScript and TypeScript monorepos with smart caching.
 * **[Nx](https://nx.dev/)**: A powerful open-source build system with first-class React support and smart monorepo tooling.
 * **[Lerna](https://lerna.js.org/)**: The original monorepo tool for managing and publishing multiple JavaScript packages from one repo.
-* **[Changesets](https://github.com/changesets/changesets) ⭐ 12,292 | 🐛 263 | 🌐 TypeScript | 📅 2026-08-19**: A workflow tool for managing versioning and changelogs in monorepos with multiple packages.
+* **[Changesets](https://github.com/changesets/changesets) ⭐ 12,293 | 🐛 263 | 🌐 TypeScript | 📅 2026-08-19**: A workflow tool for managing versioning and changelogs in monorepos with multiple packages.
 * **[PNPM Workspaces](https://pnpm.io/workspaces)**: Native monorepo support in pnpm — fast, disk-efficient package management for multi-package repos.
 
 ## Visual Studio Code Extensions
@@ -628,7 +628,7 @@ Essential libraries and tools for building modern React applications.
 
 *Essential open-source repositories every React developer should know.*
 
-* **[React](https://github.com/facebook/react) ⭐ 247,420 | 🐛 1,250 | 🌐 JavaScript | 📅 2026-08-19**: The official repository for React, maintained by Facebook.
+* **[React](https://github.com/facebook/react) ⭐ 247,420 | 🐛 1,251 | 🌐 JavaScript | 📅 2026-08-19**: The official repository for React, maintained by Facebook.
 
 ## YouTube Channels
 
