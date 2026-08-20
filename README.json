@@ -15,7 +15,7 @@
             "last_commit": "2025-08-18T04:35:31Z",
             "owner": "atlassian",
             "repo": "react-beautiful-dnd",
-            "stars": 33950
+            "stars": 33948
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 549650165,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T10:20:55Z",
+            "last_commit": "2026-08-20T12:58:12Z",
             "owner": "inokawa",
             "repo": "virtua",
-            "stars": 3718
+            "stars": 3721
           }
         }
       ],
@@ -168,7 +168,7 @@
             "last_commit": "2026-07-29T19:47:06Z",
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8511
+            "stars": 8510
           }
         }
       ],
@@ -189,7 +189,7 @@
             "last_commit": "2026-07-20T19:12:28Z",
             "owner": "winstonjs",
             "repo": "winston",
-            "stars": 24503
+            "stars": 24502
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2024-06-10T15:48:22Z",
             "owner": "lukeed",
             "repo": "clsx",
-            "stars": 9831
+            "stars": 9832
           }
         }
       ],
@@ -225,7 +225,7 @@
             "last_commit": "2026-06-21T18:33:47Z",
             "owner": "dominictobias",
             "repo": "react-image-crop",
-            "stars": 4104
+            "stars": 4105
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-18T00:10:07Z",
             "owner": "tam315",
             "repo": "react-compare-image",
-            "stars": 406
+            "stars": 407
           }
         }
       ],
@@ -258,10 +258,10 @@
             "archived": false,
             "id": 438419937,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T01:12:35Z",
+            "last_commit": "2026-08-20T03:23:52Z",
             "owner": "openai",
             "repo": "openai-node",
-            "stars": 11125
+            "stars": 11124
           }
         },
         {
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 595176353,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T13:29:36Z",
+            "last_commit": "2026-08-20T00:53:11Z",
             "owner": "anthropics",
             "repo": "anthropic-sdk-typescript",
-            "stars": 2092
+            "stars": 2093
           }
         }
       ],
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:56:07.622Z",
+    "last_updated": "2026-08-20T13:57:34.535Z",
     "original_repository": "drbarzaga/React-Toolkit",
     "original_repository_id": 880326116,
     "original_repository_sha": "732244de336d237033bfa188406a7402cd5640df",
