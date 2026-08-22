@@ -15,7 +15,7 @@
             "last_commit": "2025-08-18T04:35:31Z",
             "owner": "atlassian",
             "repo": "react-beautiful-dnd",
-            "stars": 33948
+            "stars": 33947
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-12-06T13:47:48Z",
             "owner": "SortableJS",
             "repo": "react-sortablejs",
-            "stars": 2173
+            "stars": 2172
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 549650165,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T09:40:52Z",
+            "last_commit": "2026-08-22T08:46:48Z",
             "owner": "inokawa",
             "repo": "virtua",
-            "stars": 3721
+            "stars": 3722
           }
         }
       ],
@@ -189,7 +189,7 @@
             "last_commit": "2026-07-20T19:12:28Z",
             "owner": "winstonjs",
             "repo": "winston",
-            "stars": 24503
+            "stars": 24504
           }
         },
         {
@@ -258,10 +258,10 @@
             "archived": false,
             "id": 438419937,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:42:59Z",
+            "last_commit": "2026-08-21T22:35:14Z",
             "owner": "openai",
             "repo": "openai-node",
-            "stars": 11127
+            "stars": 11128
           }
         },
         {
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 595176353,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T19:45:37Z",
+            "last_commit": "2026-08-21T17:08:21Z",
             "owner": "anthropics",
             "repo": "anthropic-sdk-typescript",
             "stars": 2095
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:56:34.356Z",
+    "last_updated": "2026-08-22T13:43:09.368Z",
     "original_repository": "drbarzaga/React-Toolkit",
     "original_repository_id": 880326116,
     "original_repository_sha": "732244de336d237033bfa188406a7402cd5640df",
