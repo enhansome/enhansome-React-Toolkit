@@ -117,7 +117,7 @@ Essential libraries and tools for building modern React applications.
 *The starting point — directly from the React team.*
 
 * **[React Website](https://react.dev/)**
-* **[React Repository](https://github.com/facebook/react) ⭐ 247,624 | 🐛 1,262 | 🌐 JavaScript | 📅 2026-08-21**
+* **[React Repository](https://github.com/facebook/react) ⭐ 247,674 | 🐛 1,263 | 🌐 JavaScript | 📅 2026-08-22**
 * **[React Community](https://react.dev/community)**
 * **[React Blog](https://react.dev/blog)**
 * **[React Conferences](https://react.dev/community/conferences)**
@@ -160,7 +160,7 @@ Essential libraries and tools for building modern React applications.
 *Libraries for building intuitive drag-and-drop interactions.*
 
 * **[React Beautiful DnD](https://github.com/atlassian/react-beautiful-dnd) ⚠️ Archived**: A powerful and beautiful drag-and-drop library for lists with React.
-* **[SortableJS](https://github.com/SortableJS/react-sortablejs) ⭐ 2,172 | 🐛 109 | 🌐 TypeScript | 📅 2023-12-06**: A React wrapper for SortableJS, a library for reorderable drag-and-drop lists.
+* **[SortableJS](https://github.com/SortableJS/react-sortablejs) ⭐ 2,173 | 🐛 109 | 🌐 TypeScript | 📅 2023-12-06**: A React wrapper for SortableJS, a library for reorderable drag-and-drop lists.
 * **[React Dragula](https://github.com/bevacqua/react-dragula) ⭐ 997 | 🐛 25 | 🌐 JavaScript | 📅 2020-09-09**: A drag-and-drop library for React based on Dragula.
 * **[Swapy](https://swapy.tahazsh.com/)**: A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code.
 * **[DnDKit](https://dndkit.com/)**: A lightweight, performant, accessible and extensible drag & drop toolkit for React.
@@ -331,7 +331,7 @@ Essential libraries and tools for building modern React applications.
 *Render massive lists and grids without sacrificing performance.*
 
 * **[React Virtualized](https://github.com/bvaughn/react-virtualized) ⭐ 27,079 | 🐛 1 | 🌐 JavaScript | 📅 2025-01-20**: A set of React components for efficiently rendering large lists and tabular data.
-* **[Virtua](https://github.com/inokawa/virtua) ⭐ 3,722 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-22**: A virtual list and grid library for React.
+* **[Virtua](https://github.com/inokawa/virtua) ⭐ 3,723 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-23**: A virtual list and grid library for React.
 * **[Tanstack Virtual](https://tanstack.com/virtual/latest)**: A powerful virtual list and grid library for React applications.
 * **[Semiotic](https://semiotic.nteract.io/)**: A data visualization framework for React.
 
@@ -417,7 +417,7 @@ Essential libraries and tools for building modern React applications.
 
 * **[Yup](https://www.npmjs.com/package/yup)**: A JavaScript schema builder for value parsing and validation.
 * **[Joi](https://joi.dev/)**: A powerful schema description language and data validator for JavaScript.
-* **[Validator](https://github.com/validatorjs/validator.js) ⭐ 23,737 | 🐛 477 | 🌐 JavaScript | 📅 2026-08-15**: A library for string validation and sanitization.
+* **[Validator](https://github.com/validatorjs/validator.js) ⭐ 23,738 | 🐛 483 | 🌐 JavaScript | 📅 2026-08-15**: A library for string validation and sanitization.
 * **[Superstruct](https://docs.superstructjs.org/)**: A simple and composable way to validate data in JavaScript and TypeScript.
 * **[Vest](https://vestjs.dev/)**: A validations framework inspired by unit testing libraries.
 * **[Zod](https://zod.dev/)**: A TypeScript-first schema declaration and validation library.
@@ -447,7 +447,7 @@ Essential libraries and tools for building modern React applications.
 * **[React Developer Tools](https://react.dev/learn/react-developer-tools)**: Official React DevTools for inspecting React component hierarchy.
 * **[Redux DevTools](https://redux.js.org/tutorials/fundamentals/part-4-store#redux-devtools)**: DevTools for Redux to help debug application state changes.
 * **[React Grab](https://www.react-grab.com/)**: Capture React component trees and pass them as context to AI coding agents directly from the browser.
-* **[React Doctor](https://github.com/millionco/react-doctor) ⭐ 14,584 | 🐛 73 | 🌐 TypeScript | 📅 2026-08-22**: AI-powered diagnostic tool that analyzes your React code for performance issues, security problems, and best practices.
+* **[React Doctor](https://github.com/millionco/react-doctor) ⭐ 14,590 | 🐛 73 | 🌐 TypeScript | 📅 2026-08-23**: AI-powered diagnostic tool that analyzes your React code for performance issues, security problems, and best practices.
 * **[Route Auditor](https://route-auditor.vercel.app/)**: Scans App Router, Pages Router, and API Routes — detecting missing auth, CSRF gaps, permissive CORS, hardcoded secrets, and more.
 
 ## Testing
@@ -460,7 +460,7 @@ Essential libraries and tools for building modern React applications.
 * **[Cypress](https://www.cypress.io/)**: Fast, easy and reliable testing for anything that runs in a browser.
 * **[React Testing Library](https://testing-library.com/)**: Simple and complete testing utilities that encourage good testing practices.
 * **[Mock Service Worker](https://mswjs.io/)**: API mocking library that intercepts requests on the network level for seamless testing and development.
-* **[agent-qa](https://github.com/vostride/agent-qa) ⭐ 934 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03**: Self-improving QA agent for natural-language browser tests with persistent memory and self-healing execution.
+* **[agent-qa](https://github.com/vostride/agent-qa) ⭐ 936 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03**: Self-improving QA agent for natural-language browser tests with persistent memory and self-healing execution.
 
 ## Documentation
 
@@ -516,8 +516,8 @@ Essential libraries and tools for building modern React applications.
 
 *Essential helpers for dates, logging, immutability, and more.*
 
-* **[Winston](https://github.com/winstonjs/winston) ⭐ 24,504 | 🐛 529 | 🌐 JavaScript | 📅 2026-07-20**: A logger for just about everything.
-* **[clsx](https://github.com/lukeed/clsx) ⭐ 9,834 | 🐛 16 | 🌐 JavaScript | 📅 2024-06-10**: A tiny utility for constructing className strings conditionally in React components.
+* **[Winston](https://github.com/winstonjs/winston) ⭐ 24,506 | 🐛 529 | 🌐 JavaScript | 📅 2026-07-20**: A logger for just about everything.
+* **[clsx](https://github.com/lukeed/clsx) ⭐ 9,832 | 🐛 16 | 🌐 JavaScript | 📅 2024-06-10**: A tiny utility for constructing className strings conditionally in React components.
 * **[Axios](https://axios-http.com/)**: A promise-based HTTP client for the browser and Node.js.
 * **[Lodash](https://lodash.com/)**: A modern JavaScript utility library delivering modularity, performance & extras.
 * **[date-fns](https://date-fns.org/)**: Modern JavaScript date utility library.
@@ -552,8 +552,8 @@ Essential libraries and tools for building modern React applications.
 
 *Integrate language models and run ML inference directly in your React app.*
 
-* **[OpenAI Node SDK](https://github.com/openai/openai-node) ⭐ 11,128 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-21**: Official OpenAI SDK for TypeScript/JavaScript to integrate GPT models into your React applications.
-* **[Anthropic SDK](https://github.com/anthropics/anthropic-sdk-typescript) ⭐ 2,095 | 🐛 53 | 🌐 TypeScript | 📅 2026-08-21**: Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.
+* **[OpenAI Node SDK](https://github.com/openai/openai-node) ⭐ 11,133 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-22**: Official OpenAI SDK for TypeScript/JavaScript to integrate GPT models into your React applications.
+* **[Anthropic SDK](https://github.com/anthropics/anthropic-sdk-typescript) ⭐ 2,095 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-21**: Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.
 * **[Vercel AI SDK](https://sdk.vercel.ai/)**: The AI Toolkit for TypeScript. Build AI-powered products with React streaming UI and LLM integrations.
 * **[Markstream](https://markstream.simonhe.me/)**: Open-source streaming Markdown renderer for React AI chat interfaces, with incomplete-token handling, Mermaid, KaTeX, syntax highlighting, safe HTML, SSR, and React 18/19 support.
 * **[LangChain.js](https://js.langchain.com/)**: A framework for developing applications powered by language models in JavaScript and TypeScript.
@@ -577,7 +577,7 @@ Essential libraries and tools for building modern React applications.
 * **[Turborepo](https://turbo.build/repo)**: High-performance build system for JavaScript and TypeScript monorepos with smart caching.
 * **[Nx](https://nx.dev/)**: A powerful open-source build system with first-class React support and smart monorepo tooling.
 * **[Lerna](https://lerna.js.org/)**: The original monorepo tool for managing and publishing multiple JavaScript packages from one repo.
-* **[Changesets](https://github.com/changesets/changesets) ⭐ 12,308 | 🐛 267 | 🌐 TypeScript | 📅 2026-08-22**: A workflow tool for managing versioning and changelogs in monorepos with multiple packages.
+* **[Changesets](https://github.com/changesets/changesets) ⭐ 12,309 | 🐛 266 | 🌐 TypeScript | 📅 2026-08-22**: A workflow tool for managing versioning and changelogs in monorepos with multiple packages.
 * **[PNPM Workspaces](https://pnpm.io/workspaces)**: Native monorepo support in pnpm — fast, disk-efficient package management for multi-package repos.
 
 ## Visual Studio Code Extensions
@@ -628,7 +628,7 @@ Essential libraries and tools for building modern React applications.
 
 *Essential open-source repositories every React developer should know.*
 
-* **[React](https://github.com/facebook/react) ⭐ 247,624 | 🐛 1,262 | 🌐 JavaScript | 📅 2026-08-21**: The official repository for React, maintained by Facebook.
+* **[React](https://github.com/facebook/react) ⭐ 247,674 | 🐛 1,263 | 🌐 JavaScript | 📅 2026-08-22**: The official repository for React, maintained by Facebook.
 
 ## YouTube Channels
 
@@ -677,4 +677,4 @@ Made with care for the React community · If you find it useful, consider leavin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

@@ -30,7 +30,7 @@
             "last_commit": "2023-12-06T13:47:48Z",
             "owner": "SortableJS",
             "repo": "react-sortablejs",
-            "stars": 2172
+            "stars": 2173
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 549650165,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T08:46:48Z",
+            "last_commit": "2026-08-23T02:14:39Z",
             "owner": "inokawa",
             "repo": "virtua",
-            "stars": 3722
+            "stars": 3723
           }
         }
       ],
@@ -189,7 +189,7 @@
             "last_commit": "2026-07-20T19:12:28Z",
             "owner": "winstonjs",
             "repo": "winston",
-            "stars": 24504
+            "stars": 24506
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2024-06-10T15:48:22Z",
             "owner": "lukeed",
             "repo": "clsx",
-            "stars": 9834
+            "stars": 9832
           }
         }
       ],
@@ -258,10 +258,10 @@
             "archived": false,
             "id": 438419937,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T22:35:14Z",
+            "last_commit": "2026-08-22T23:43:35Z",
             "owner": "openai",
             "repo": "openai-node",
-            "stars": 11128
+            "stars": 11133
           }
         },
         {
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:43:09.368Z",
+    "last_updated": "2026-08-23T13:44:10.406Z",
     "original_repository": "drbarzaga/React-Toolkit",
     "original_repository_id": 880326116,
     "original_repository_sha": "732244de336d237033bfa188406a7402cd5640df",
