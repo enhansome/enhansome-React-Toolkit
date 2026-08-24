@@ -1,12 +1,54 @@
 {
   "items": [
     {
+      "description": "The starting point — directly from the React team.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10270250,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T13:14:18Z",
+            "owner": "react",
+            "repo": "react",
+            "stars": 247688
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "Client-side navigation and URL management.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wouter",
+          "description": "A minimalist-friendly ~2.1KB routing for React and Preact.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 180418592,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T16:12:40Z",
+            "owner": "molefrog",
+            "repo": "wouter",
+            "stars": 7866
+          }
+        }
+      ],
+      "title": "Routing"
+    },
+    {
       "description": "Libraries for building intuitive drag-and-drop interactions.",
       "items": [
         {
           "node_type": "item",
-          "title": "React Beautiful DnD: A powerful and beautiful drag-and-drop library for lists with React.",
-          "description": null,
+          "title": "React Beautiful DnD",
+          "description": "A powerful and beautiful drag-and-drop library for lists with React.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -20,8 +62,8 @@
         },
         {
           "node_type": "item",
-          "title": "SortableJS: A React wrapper for SortableJS, a library for reorderable drag-and-drop lists.",
-          "description": null,
+          "title": "SortableJS",
+          "description": "A React wrapper for SortableJS, a library for reorderable drag-and-drop lists.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,8 +77,8 @@
         },
         {
           "node_type": "item",
-          "title": "React Dragula: A drag-and-drop library for React based on Dragula.",
-          "description": null,
+          "title": "React Dragula",
+          "description": "A drag-and-drop library for React based on Dragula.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -56,8 +98,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "React Virtualized: A set of React components for efficiently rendering large lists and tabular data.",
-          "description": null,
+          "title": "React Virtualized",
+          "description": "A set of React components for efficiently rendering large lists and tabular data.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -66,22 +108,22 @@
             "last_commit": "2025-01-20T21:42:24Z",
             "owner": "bvaughn",
             "repo": "react-virtualized",
-            "stars": 27079
+            "stars": 27081
           }
         },
         {
           "node_type": "item",
-          "title": "Virtua: A virtual list and grid library for React.",
-          "description": null,
+          "title": "Virtua",
+          "description": "A virtual list and grid library for React.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 549650165,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T02:14:39Z",
+            "last_commit": "2026-08-24T13:51:16Z",
             "owner": "inokawa",
             "repo": "virtua",
-            "stars": 3723
+            "stars": 3724
           }
         }
       ],
@@ -92,8 +134,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "React Player: A React component for playing a variety of URLs, including YouTube, SoundCloud, and more.",
-          "description": null,
+          "title": "React Player",
+          "description": "A React component for playing a variety of URLs, including YouTube, SoundCloud, and more.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -102,13 +144,13 @@
             "last_commit": "2025-11-13T19:27:44Z",
             "owner": "cookpete",
             "repo": "react-player",
-            "stars": 10277
+            "stars": 10278
           }
         },
         {
           "node_type": "item",
-          "title": "React Webcam: A React component for accessing the user's webcam.",
-          "description": null,
+          "title": "React Webcam",
+          "description": "A React component for accessing the user's webcam.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -122,8 +164,8 @@
         },
         {
           "node_type": "item",
-          "title": "React Sound: A sound component to play audio in your React applications.",
-          "description": null,
+          "title": "React Sound",
+          "description": "A sound component to play audio in your React applications.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -143,8 +185,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "React Helmet: A reusable React component that manages changes to the document head.",
-          "description": null,
+          "title": "React Helmet",
+          "description": "A reusable React component that manages changes to the document head.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -158,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "Next SEO: A plugin that makes managing SEO easier in Next.js projects.",
-          "description": null,
+          "title": "Next SEO",
+          "description": "A plugin that makes managing SEO easier in Next.js projects.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -168,19 +210,124 @@
             "last_commit": "2026-07-29T19:47:06Z",
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8509
+            "stars": 8510
           }
         }
       ],
       "title": "Search Engine Optimization"
     },
     {
+      "description": "Schema definition and runtime validation for forms and APIs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Validator",
+          "description": "A library for string validation and sanitization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 965782,
+            "language": "JavaScript",
+            "last_commit": "2026-08-15T19:20:16Z",
+            "owner": "validatorjs",
+            "repo": "validator.js",
+            "stars": 23739
+          }
+        }
+      ],
+      "title": "Validations"
+    },
+    {
+      "description": "Debugging and inspection tools for React applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Doctor",
+          "description": "AI-powered diagnostic tool that analyzes your React code for performance issues, security problems, and best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1156960719,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:22:31Z",
+            "owner": "millionco",
+            "repo": "react-doctor",
+            "stars": 14604
+          }
+        }
+      ],
+      "title": "DevTools"
+    },
+    {
+      "description": "Unit, integration, and end-to-end testing for React apps.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "agent-qa",
+          "description": "Self-improving QA agent for natural-language browser tests with persistent memory and self-healing execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1232322871,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T18:44:59Z",
+            "owner": "vostride",
+            "repo": "agent-qa",
+            "stars": 960
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "Identify and eliminate render bottlenecks before they reach users.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Lazy Load",
+          "description": "A library that helps you defer loading content in your React application until it becomes visible in the viewport.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31480732,
+            "language": "TypeScript",
+            "last_commit": "2024-10-14T15:10:54Z",
+            "owner": "loktar00",
+            "repo": "react-lazy-load",
+            "stars": 981
+          }
+        }
+      ],
+      "title": "Performance Optimization"
+    },
+    {
+      "description": "Load only what's needed, when it's needed.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Loadable",
+          "description": "A higher order component for loading components with dynamic imports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84476389,
+            "language": "JavaScript",
+            "last_commit": "2024-07-10T11:51:12Z",
+            "owner": "jamiebuilds",
+            "repo": "react-loadable",
+            "stars": 16507
+          }
+        }
+      ],
+      "title": "Code Splitting"
+    },
+    {
       "description": "Essential helpers for dates, logging, immutability, and more.",
       "items": [
         {
           "node_type": "item",
-          "title": "Winston: A logger for just about everything.",
-          "description": null,
+          "title": "Winston",
+          "description": "A logger for just about everything.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -194,8 +341,8 @@
         },
         {
           "node_type": "item",
-          "title": "clsx: A tiny utility for constructing className strings conditionally in React components.",
-          "description": null,
+          "title": "clsx",
+          "description": "A tiny utility for constructing className strings conditionally in React components.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -204,7 +351,7 @@
             "last_commit": "2024-06-10T15:48:22Z",
             "owner": "lukeed",
             "repo": "clsx",
-            "stars": 9832
+            "stars": 9833
           }
         }
       ],
@@ -215,8 +362,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "React Image Crop: A responsive image cropping tool for React.",
-          "description": null,
+          "title": "React Image Crop",
+          "description": "A responsive image cropping tool for React.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -225,13 +372,13 @@
             "last_commit": "2026-06-21T18:33:47Z",
             "owner": "dominictobias",
             "repo": "react-image-crop",
-            "stars": 4105
+            "stars": 4104
           }
         },
         {
           "node_type": "item",
-          "title": "React Compare Image: React component to compare two images with a slider",
-          "description": null,
+          "title": "React Compare Image",
+          "description": "React component to compare two images with a slider",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -251,8 +398,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "OpenAI Node SDK: Official OpenAI SDK for TypeScript/JavaScript to integrate GPT models into your React applications.",
-          "description": null,
+          "title": "OpenAI Node SDK",
+          "description": "Official OpenAI SDK for TypeScript/JavaScript to integrate GPT models into your React applications.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,13 +408,13 @@
             "last_commit": "2026-08-22T23:43:35Z",
             "owner": "openai",
             "repo": "openai-node",
-            "stars": 11133
+            "stars": 11137
           }
         },
         {
           "node_type": "item",
-          "title": "Anthropic SDK: Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.",
-          "description": null,
+          "title": "Anthropic SDK",
+          "description": "Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -281,10 +428,52 @@
         }
       ],
       "title": "AI & LLM Integration"
+    },
+    {
+      "description": "Manage multiple packages in a single repository efficiently.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Changesets",
+          "description": "A workflow tool for managing versioning and changelogs in monorepos with multiple packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177033748,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:43:03Z",
+            "owner": "changesets",
+            "repo": "changesets",
+            "stars": 12311
+          }
+        }
+      ],
+      "title": "Monorepo Tools"
+    },
+    {
+      "description": "Essential open-source repositories every React developer should know.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React",
+          "description": "The official repository for React, maintained by Facebook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10270250,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T13:14:18Z",
+            "owner": "react",
+            "repo": "react",
+            "stars": 247688
+          }
+        }
+      ],
+      "title": "GitHub Repositories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:44:10.406Z",
+    "last_updated": "2026-08-24T14:15:18.692Z",
     "original_repository": "drbarzaga/React-Toolkit",
     "original_repository_id": 880326116,
     "original_repository_sha": "732244de336d237033bfa188406a7402cd5640df",
