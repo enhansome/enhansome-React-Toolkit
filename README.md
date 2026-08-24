@@ -116,7 +116,7 @@ Essential libraries and tools for building modern React applications.
 
 *The starting point — directly from the React team.*
 
-* **[React Repository](https://github.com/facebook/react) ⭐ 247,688 | 🐛 1,264 | 🌐 JavaScript | 📅 2026-08-24**
+* **[React Repository](https://github.com/facebook/react) ⭐ 247,689 | 🐛 1,265 | 🌐 JavaScript | 📅 2026-08-24**
 * **[React Website](https://react.dev/)**
 * **[React Community](https://react.dev/community)**
 * **[React Blog](https://react.dev/blog)**
@@ -150,7 +150,7 @@ Essential libraries and tools for building modern React applications.
 
 *Client-side navigation and URL management.*
 
-* **[Wouter](https://github.com/molefrog/wouter) ⭐ 7,866 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-21**: A minimalist-friendly \~2.1KB routing for React and Preact.
+* **[Wouter](https://github.com/molefrog/wouter) ⭐ 7,867 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-21**: A minimalist-friendly \~2.1KB routing for React and Preact.
 * **[Tanstack Router](https://tanstack.com/router/latest)**: A powerful routing library for React applications.
 * **[React Router](https://reactrouter.com/)**: The standard routing library for React applications.
 * **[Reach Router](https://reach.tech/router)**: A routing library with a focus on accessibility and simplicity.
@@ -552,7 +552,7 @@ Essential libraries and tools for building modern React applications.
 
 *Integrate language models and run ML inference directly in your React app.*
 
-* **[OpenAI Node SDK](https://github.com/openai/openai-node) ⭐ 11,137 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-22**: Official OpenAI SDK for TypeScript/JavaScript to integrate GPT models into your React applications.
+* **[OpenAI Node SDK](https://github.com/openai/openai-node) ⭐ 11,138 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-22**: Official OpenAI SDK for TypeScript/JavaScript to integrate GPT models into your React applications.
 * **[Anthropic SDK](https://github.com/anthropics/anthropic-sdk-typescript) ⭐ 2,095 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-21**: Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.
 * **[Vercel AI SDK](https://sdk.vercel.ai/)**: The AI Toolkit for TypeScript. Build AI-powered products with React streaming UI and LLM integrations.
 * **[Markstream](https://markstream.simonhe.me/)**: Open-source streaming Markdown renderer for React AI chat interfaces, with incomplete-token handling, Mermaid, KaTeX, syntax highlighting, safe HTML, SSR, and React 18/19 support.
@@ -628,7 +628,7 @@ Essential libraries and tools for building modern React applications.
 
 *Essential open-source repositories every React developer should know.*
 
-* **[React](https://github.com/facebook/react) ⭐ 247,688 | 🐛 1,264 | 🌐 JavaScript | 📅 2026-08-24**: The official repository for React, maintained by Facebook.
+* **[React](https://github.com/facebook/react) ⭐ 247,689 | 🐛 1,265 | 🌐 JavaScript | 📅 2026-08-24**: The official repository for React, maintained by Facebook.
 
 ## YouTube Channels
 
