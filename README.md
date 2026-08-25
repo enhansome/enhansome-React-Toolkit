@@ -116,7 +116,7 @@ Essential libraries and tools for building modern React applications.
 
 *The starting point — directly from the React team.*
 
-* **[React Repository](https://github.com/facebook/react) ⭐ 247,884 | 🐛 1,267 | 🌐 JavaScript | 📅 2026-08-24**
+* **[React Repository](https://github.com/facebook/react) ⭐ 247,887 | 🐛 1,269 | 🌐 JavaScript | 📅 2026-08-25**
 * **[React Website](https://react.dev/)**
 * **[React Community](https://react.dev/community)**
 * **[React Blog](https://react.dev/blog)**
@@ -408,14 +408,14 @@ Essential libraries and tools for building modern React applications.
 *Manage meta tags, titles, and structured data for better discoverability.*
 
 * **[React Helmet](https://github.com/nfl/react-helmet) ⭐ 17,460 | 🐛 219 | 🌐 JavaScript | 📅 2023-07-18**: A reusable React component that manages changes to the document head.
-* **[Next SEO](https://github.com/garmeeh/next-seo) ⭐ 8,510 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-29**: A plugin that makes managing SEO easier in Next.js projects.
+* **[Next SEO](https://github.com/garmeeh/next-seo) ⭐ 8,508 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-29**: A plugin that makes managing SEO easier in Next.js projects.
 * **[React Meta Tags](https://www.npmjs.com/package/react-meta-tags)**: A library for managing meta tags in React applications.
 
 ## Validations
 
 *Schema definition and runtime validation for forms and APIs.*
 
-* **[Validator](https://github.com/validatorjs/validator.js) ⭐ 23,739 | 🐛 487 | 🌐 JavaScript | 📅 2026-08-15**: A library for string validation and sanitization.
+* **[Validator](https://github.com/validatorjs/validator.js) ⭐ 23,739 | 🐛 488 | 🌐 JavaScript | 📅 2026-08-15**: A library for string validation and sanitization.
 * **[Yup](https://www.npmjs.com/package/yup)**: A JavaScript schema builder for value parsing and validation.
 * **[Joi](https://joi.dev/)**: A powerful schema description language and data validator for JavaScript.
 * **[Superstruct](https://docs.superstructjs.org/)**: A simple and composable way to validate data in JavaScript and TypeScript.
@@ -444,7 +444,7 @@ Essential libraries and tools for building modern React applications.
 
 *Debugging and inspection tools for React applications.*
 
-* **[React Doctor](https://github.com/millionco/react-doctor) ⭐ 14,611 | 🐛 73 | 🌐 TypeScript | 📅 2026-08-25**: AI-powered diagnostic tool that analyzes your React code for performance issues, security problems, and best practices.
+* **[React Doctor](https://github.com/millionco/react-doctor) ⭐ 14,618 | 🐛 75 | 🌐 TypeScript | 📅 2026-08-25**: AI-powered diagnostic tool that analyzes your React code for performance issues, security problems, and best practices.
 * **[React Developer Tools](https://react.dev/learn/react-developer-tools)**: Official React DevTools for inspecting React component hierarchy.
 * **[Redux DevTools](https://redux.js.org/tutorials/fundamentals/part-4-store#redux-devtools)**: DevTools for Redux to help debug application state changes.
 * **[React Grab](https://www.react-grab.com/)**: Capture React component trees and pass them as context to AI coding agents directly from the browser.
@@ -454,7 +454,7 @@ Essential libraries and tools for building modern React applications.
 
 *Unit, integration, and end-to-end testing for React apps.*
 
-* **[agent-qa](https://github.com/vostride/agent-qa) ⭐ 961 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03**: Self-improving QA agent for natural-language browser tests with persistent memory and self-healing execution.
+* **[agent-qa](https://github.com/vostride/agent-qa) ⭐ 874 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03**: Self-improving QA agent for natural-language browser tests with persistent memory and self-healing execution.
 * **[Jest](https://jestjs.io/)**: Delightful JavaScript Testing Framework with a focus on simplicity.
 * **[Vitest](https://vitest.dev/)**: A blazing fast unit test framework powered by Vite.
 * **[Playwright](https://playwright.dev/)**: End-to-end testing framework for web apps, with support for multiple browsers.
@@ -516,8 +516,8 @@ Essential libraries and tools for building modern React applications.
 
 *Essential helpers for dates, logging, immutability, and more.*
 
-* **[Winston](https://github.com/winstonjs/winston) ⭐ 24,507 | 🐛 529 | 🌐 JavaScript | 📅 2026-07-20**: A logger for just about everything.
-* **[clsx](https://github.com/lukeed/clsx) ⭐ 9,833 | 🐛 16 | 🌐 JavaScript | 📅 2024-06-10**: A tiny utility for constructing className strings conditionally in React components.
+* **[Winston](https://github.com/winstonjs/winston) ⭐ 24,508 | 🐛 529 | 🌐 JavaScript | 📅 2026-07-20**: A logger for just about everything.
+* **[clsx](https://github.com/lukeed/clsx) ⭐ 9,832 | 🐛 16 | 🌐 JavaScript | 📅 2024-06-10**: A tiny utility for constructing className strings conditionally in React components.
 * **[Axios](https://axios-http.com/)**: A promise-based HTTP client for the browser and Node.js.
 * **[Lodash](https://lodash.com/)**: A modern JavaScript utility library delivering modularity, performance & extras.
 * **[date-fns](https://date-fns.org/)**: Modern JavaScript date utility library.
@@ -528,7 +528,7 @@ Essential libraries and tools for building modern React applications.
 
 *Spinners, tooltips, command menus, image tools, and other useful additions.*
 
-* **[React Image Crop](https://github.com/DominicTobias/react-image-crop) ⭐ 4,104 | 🐛 73 | 🌐 TypeScript | 📅 2026-06-21**: A responsive image cropping tool for React.
+* **[React Image Crop](https://github.com/DominicTobias/react-image-crop) ⭐ 4,103 | 🐛 73 | 🌐 TypeScript | 📅 2026-06-21**: A responsive image cropping tool for React.
 * **[React Compare Image](https://github.com/tam315/react-compare-image) ⭐ 407 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-18**: React component to compare two images with a slider
 * **[Awesome Loaders](https://awesome-loaders.netlify.app/)**: Free & Open source loading animations.
 * **[ReactSpinners](https://www.davidhu.io/react-spinners/)**: A collection of loading spinner components for React.
@@ -574,7 +574,7 @@ Essential libraries and tools for building modern React applications.
 
 *Manage multiple packages in a single repository efficiently.*
 
-* **[Changesets](https://github.com/changesets/changesets) ⭐ 12,315 | 🐛 264 | 🌐 TypeScript | 📅 2026-08-24**: A workflow tool for managing versioning and changelogs in monorepos with multiple packages.
+* **[Changesets](https://github.com/changesets/changesets) ⭐ 12,319 | 🐛 263 | 🌐 TypeScript | 📅 2026-08-25**: A workflow tool for managing versioning and changelogs in monorepos with multiple packages.
 * **[Turborepo](https://turbo.build/repo)**: High-performance build system for JavaScript and TypeScript monorepos with smart caching.
 * **[Nx](https://nx.dev/)**: A powerful open-source build system with first-class React support and smart monorepo tooling.
 * **[Lerna](https://lerna.js.org/)**: The original monorepo tool for managing and publishing multiple JavaScript packages from one repo.
@@ -628,7 +628,7 @@ Essential libraries and tools for building modern React applications.
 
 *Essential open-source repositories every React developer should know.*
 
-* **[React](https://github.com/facebook/react) ⭐ 247,884 | 🐛 1,267 | 🌐 JavaScript | 📅 2026-08-24**: The official repository for React, maintained by Facebook.
+* **[React](https://github.com/facebook/react) ⭐ 247,887 | 🐛 1,269 | 🌐 JavaScript | 📅 2026-08-25**: The official repository for React, maintained by Facebook.
 
 ## YouTube Channels
 
