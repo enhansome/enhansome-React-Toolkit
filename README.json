@@ -12,10 +12,10 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T07:43:36Z",
+            "last_commit": "2026-08-26T12:16:45Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247887
+            "stars": 247899
           }
         }
       ],
@@ -108,7 +108,7 @@
             "last_commit": "2025-01-20T21:42:24Z",
             "owner": "bvaughn",
             "repo": "react-virtualized",
-            "stars": 27081
+            "stars": 27080
           }
         },
         {
@@ -120,10 +120,10 @@
             "archived": false,
             "id": 549650165,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T12:10:22Z",
+            "last_commit": "2026-08-25T16:29:01Z",
             "owner": "inokawa",
             "repo": "virtua",
-            "stars": 3726
+            "stars": 3727
           }
         }
       ],
@@ -159,7 +159,7 @@
             "last_commit": "2026-03-10T15:04:48Z",
             "owner": "mozmorris",
             "repo": "react-webcam",
-            "stars": 1751
+            "stars": 1750
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2023-07-18T19:57:38Z",
             "owner": "nfl",
             "repo": "react-helmet",
-            "stars": 17460
+            "stars": 17459
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-07-29T19:47:06Z",
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8508
+            "stars": 8507
           }
         }
       ],
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-15T19:20:16Z",
             "owner": "validatorjs",
             "repo": "validator.js",
-            "stars": 23739
+            "stars": 23737
           }
         }
       ],
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 1156960719,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T13:54:14Z",
+            "last_commit": "2026-08-26T13:50:59Z",
             "owner": "millionco",
             "repo": "react-doctor",
-            "stars": 14618
+            "stars": 14627
           }
         }
       ],
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-03T18:44:59Z",
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 874
+            "stars": 875
           }
         }
       ],
@@ -336,7 +336,7 @@
             "last_commit": "2026-07-20T19:12:28Z",
             "owner": "winstonjs",
             "repo": "winston",
-            "stars": 24508
+            "stars": 24507
           }
         },
         {
@@ -405,10 +405,10 @@
             "archived": false,
             "id": 438419937,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T01:48:57Z",
+            "last_commit": "2026-08-26T05:33:19Z",
             "owner": "openai",
             "repo": "openai-node",
-            "stars": 11139
+            "stars": 11143
           }
         },
         {
@@ -420,10 +420,10 @@
             "archived": false,
             "id": 595176353,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T03:33:52Z",
+            "last_commit": "2026-08-26T02:35:40Z",
             "owner": "anthropics",
             "repo": "anthropic-sdk-typescript",
-            "stars": 2095
+            "stars": 2096
           }
         }
       ],
@@ -441,10 +441,10 @@
             "archived": false,
             "id": 177033748,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T12:42:50Z",
+            "last_commit": "2026-08-26T09:46:37Z",
             "owner": "changesets",
             "repo": "changesets",
-            "stars": 12319
+            "stars": 12325
           }
         }
       ],
@@ -462,10 +462,10 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T07:43:36Z",
+            "last_commit": "2026-08-26T12:16:45Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247887
+            "stars": 247899
           }
         }
       ],
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:02:03.221Z",
+    "last_updated": "2026-08-26T14:02:21.221Z",
     "original_repository": "drbarzaga/React-Toolkit",
     "original_repository_id": 880326116,
     "original_repository_sha": "732244de336d237033bfa188406a7402cd5640df",
