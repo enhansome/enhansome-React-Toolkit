@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T19:53:08Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247979
+            "stars": 247988
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-21T16:12:40Z",
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7868
+            "stars": 7867
           }
         }
       ],
@@ -120,7 +120,7 @@
             "archived": false,
             "id": 549650165,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T16:29:01Z",
+            "last_commit": "2026-08-27T18:22:50Z",
             "owner": "inokawa",
             "repo": "virtua",
             "stars": 3728
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 1156960719,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:53:23Z",
+            "last_commit": "2026-08-27T22:39:59Z",
             "owner": "millionco",
             "repo": "react-doctor",
-            "stars": 14635
+            "stars": 14637
           }
         }
       ],
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-03T18:44:59Z",
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 847
+            "stars": 865
           }
         }
       ],
@@ -336,7 +336,7 @@
             "last_commit": "2026-07-20T19:12:28Z",
             "owner": "winstonjs",
             "repo": "winston",
-            "stars": 24508
+            "stars": 24511
           }
         },
         {
@@ -405,7 +405,7 @@
             "archived": false,
             "id": 438419937,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T05:58:15Z",
+            "last_commit": "2026-08-27T16:46:42Z",
             "owner": "openai",
             "repo": "openai-node",
             "stars": 11146
@@ -420,10 +420,10 @@
             "archived": false,
             "id": 595176353,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T00:39:17Z",
+            "last_commit": "2026-08-27T21:22:28Z",
             "owner": "anthropics",
             "repo": "anthropic-sdk-typescript",
-            "stars": 2097
+            "stars": 2099
           }
         }
       ],
@@ -444,7 +444,7 @@
             "last_commit": "2026-08-26T09:46:37Z",
             "owner": "changesets",
             "repo": "changesets",
-            "stars": 12331
+            "stars": 12333
           }
         }
       ],
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-26T19:53:08Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247979
+            "stars": 247988
           }
         }
       ],
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:23.427Z",
+    "last_updated": "2026-08-27T22:57:00.195Z",
     "original_repository_info": {
       "archived": false,
       "id": 880326116,

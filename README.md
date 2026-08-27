@@ -4,9 +4,9 @@
 
 Essential libraries and tools for building modern React applications.
 
-[![Stars](https://img.shields.io/github/stars/drbarzaga/react-toolkit?style=flat-square\&color=yellow)](https://github.com/drbarzaga/react-toolkit/stargazers) ⭐ 92 | 🐛 0 | 📅 2026-08-16
-[![Forks](https://img.shields.io/github/forks/drbarzaga/react-toolkit?style=flat-square)](https://github.com/drbarzaga/react-toolkit/network/members) ⭐ 92 | 🐛 0 | 📅 2026-08-16
-[![Issues](https://img.shields.io/github/issues/drbarzaga/react-toolkit?style=flat-square)](https://github.com/drbarzaga/react-toolkit/issues) ⭐ 92 | 🐛 0 | 📅 2026-08-16
+[![Stars](https://img.shields.io/github/stars/drbarzaga/react-toolkit?style=flat-square\&color=yellow)](https://github.com/drbarzaga/react-toolkit/stargazers) ⭐ 92 | 🐛 1 | 📅 2026-08-16
+[![Forks](https://img.shields.io/github/forks/drbarzaga/react-toolkit?style=flat-square)](https://github.com/drbarzaga/react-toolkit/network/members) ⭐ 92 | 🐛 1 | 📅 2026-08-16
+[![Issues](https://img.shields.io/github/issues/drbarzaga/react-toolkit?style=flat-square)](https://github.com/drbarzaga/react-toolkit/issues) ⭐ 92 | 🐛 1 | 📅 2026-08-16
 [![License](https://img.shields.io/github/license/drbarzaga/react-toolkit?style=flat-square)](LICENSE)
 
 [![Share on X](https://img.shields.io/badge/Share%20on%20X-black?logo=x\&style=flat-square)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20React%20toolkit%20collection!%20https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit)
@@ -116,7 +116,7 @@ Essential libraries and tools for building modern React applications.
 
 *The starting point — directly from the React team.*
 
-* **[React Repository](https://github.com/facebook/react) ⭐ 247,979 | 🐛 1,273 | 🌐 JavaScript | 📅 2026-08-26**
+* **[React Repository](https://github.com/facebook/react) ⭐ 247,988 | 🐛 1,275 | 🌐 JavaScript | 📅 2026-08-26**
 * **[React Website](https://react.dev/)**
 * **[React Community](https://react.dev/community)**
 * **[React Blog](https://react.dev/blog)**
@@ -150,7 +150,7 @@ Essential libraries and tools for building modern React applications.
 
 *Client-side navigation and URL management.*
 
-* **[Wouter](https://github.com/molefrog/wouter) ⭐ 7,868 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-21**: A minimalist-friendly \~2.1KB routing for React and Preact.
+* **[Wouter](https://github.com/molefrog/wouter) ⭐ 7,867 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-21**: A minimalist-friendly \~2.1KB routing for React and Preact.
 * **[Tanstack Router](https://tanstack.com/router/latest)**: A powerful routing library for React applications.
 * **[React Router](https://reactrouter.com/)**: The standard routing library for React applications.
 * **[Reach Router](https://reach.tech/router)**: A routing library with a focus on accessibility and simplicity.
@@ -250,7 +250,7 @@ Essential libraries and tools for building modern React applications.
 * **[useHooks](https://usehooks.com/)**: A collection of reusable React hooks.
 * **[usehooks-ts](https://usehooks-ts.com/)**: React hook library, ready to use, written in Typescript.
 * **[Novajs](https://novajs.dev/)**: A collection of dependency-free React hooks.
-* **[React Use](https://github.com/streamich/react-use) ⭐ 44,023 | 🐛 663 | 🌐 TypeScript | 📅 2026-06-10**: A library of essential React hooks.
+* **[React Use](https://github.com/streamich/react-use) ⭐ 44,022 | 🐛 663 | 🌐 TypeScript | 📅 2026-06-10**: A library of essential React hooks.
 * **[ahooks](https://ahooks.js.org/)**: A set of high-quality and reliable React hooks.
 
 ## Notifications
@@ -331,7 +331,7 @@ Essential libraries and tools for building modern React applications.
 *Render massive lists and grids without sacrificing performance.*
 
 * **[React Virtualized](https://github.com/bvaughn/react-virtualized) ⭐ 27,080 | 🐛 1 | 🌐 JavaScript | 📅 2025-01-20**: A set of React components for efficiently rendering large lists and tabular data.
-* **[Virtua](https://github.com/inokawa/virtua) ⭐ 3,728 | 🐛 66 | 🌐 TypeScript | 📅 2026-08-25**: A virtual list and grid library for React.
+* **[Virtua](https://github.com/inokawa/virtua) ⭐ 3,728 | 🐛 66 | 🌐 TypeScript | 📅 2026-08-27**: A virtual list and grid library for React.
 * **[Tanstack Virtual](https://tanstack.com/virtual/latest)**: A powerful virtual list and grid library for React applications.
 * **[Semiotic](https://semiotic.nteract.io/)**: A data visualization framework for React.
 
@@ -444,7 +444,7 @@ Essential libraries and tools for building modern React applications.
 
 *Debugging and inspection tools for React applications.*
 
-* **[React Doctor](https://github.com/millionco/react-doctor) ⭐ 14,635 | 🐛 88 | 🌐 TypeScript | 📅 2026-08-27**: AI-powered diagnostic tool that analyzes your React code for performance issues, security problems, and best practices.
+* **[React Doctor](https://github.com/millionco/react-doctor) ⭐ 14,637 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-27**: AI-powered diagnostic tool that analyzes your React code for performance issues, security problems, and best practices.
 * **[React Developer Tools](https://react.dev/learn/react-developer-tools)**: Official React DevTools for inspecting React component hierarchy.
 * **[Redux DevTools](https://redux.js.org/tutorials/fundamentals/part-4-store#redux-devtools)**: DevTools for Redux to help debug application state changes.
 * **[React Grab](https://www.react-grab.com/)**: Capture React component trees and pass them as context to AI coding agents directly from the browser.
@@ -454,7 +454,7 @@ Essential libraries and tools for building modern React applications.
 
 *Unit, integration, and end-to-end testing for React apps.*
 
-* **[agent-qa](https://github.com/vostride/agent-qa) ⭐ 847 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03**: Self-improving QA agent for natural-language browser tests with persistent memory and self-healing execution.
+* **[agent-qa](https://github.com/vostride/agent-qa) ⭐ 865 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03**: Self-improving QA agent for natural-language browser tests with persistent memory and self-healing execution.
 * **[Jest](https://jestjs.io/)**: Delightful JavaScript Testing Framework with a focus on simplicity.
 * **[Vitest](https://vitest.dev/)**: A blazing fast unit test framework powered by Vite.
 * **[Playwright](https://playwright.dev/)**: End-to-end testing framework for web apps, with support for multiple browsers.
@@ -516,7 +516,7 @@ Essential libraries and tools for building modern React applications.
 
 *Essential helpers for dates, logging, immutability, and more.*
 
-* **[Winston](https://github.com/winstonjs/winston) ⭐ 24,508 | 🐛 529 | 🌐 JavaScript | 📅 2026-07-20**: A logger for just about everything.
+* **[Winston](https://github.com/winstonjs/winston) ⭐ 24,511 | 🐛 529 | 🌐 JavaScript | 📅 2026-07-20**: A logger for just about everything.
 * **[clsx](https://github.com/lukeed/clsx) ⭐ 9,832 | 🐛 15 | 🌐 JavaScript | 📅 2024-06-10**: A tiny utility for constructing className strings conditionally in React components.
 * **[Axios](https://axios-http.com/)**: A promise-based HTTP client for the browser and Node.js.
 * **[Lodash](https://lodash.com/)**: A modern JavaScript utility library delivering modularity, performance & extras.
@@ -552,8 +552,8 @@ Essential libraries and tools for building modern React applications.
 
 *Integrate language models and run ML inference directly in your React app.*
 
-* **[OpenAI Node SDK](https://github.com/openai/openai-node) ⭐ 11,146 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-27**: Official OpenAI SDK for TypeScript/JavaScript to integrate GPT models into your React applications.
-* **[Anthropic SDK](https://github.com/anthropics/anthropic-sdk-typescript) ⭐ 2,097 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-27**: Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.
+* **[OpenAI Node SDK](https://github.com/openai/openai-node) ⭐ 11,146 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-27**: Official OpenAI SDK for TypeScript/JavaScript to integrate GPT models into your React applications.
+* **[Anthropic SDK](https://github.com/anthropics/anthropic-sdk-typescript) ⭐ 2,099 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-27**: Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.
 * **[Vercel AI SDK](https://sdk.vercel.ai/)**: The AI Toolkit for TypeScript. Build AI-powered products with React streaming UI and LLM integrations.
 * **[Markstream](https://markstream.simonhe.me/)**: Open-source streaming Markdown renderer for React AI chat interfaces, with incomplete-token handling, Mermaid, KaTeX, syntax highlighting, safe HTML, SSR, and React 18/19 support.
 * **[LangChain.js](https://js.langchain.com/)**: A framework for developing applications powered by language models in JavaScript and TypeScript.
@@ -574,7 +574,7 @@ Essential libraries and tools for building modern React applications.
 
 *Manage multiple packages in a single repository efficiently.*
 
-* **[Changesets](https://github.com/changesets/changesets) ⭐ 12,331 | 🐛 254 | 🌐 TypeScript | 📅 2026-08-26**: A workflow tool for managing versioning and changelogs in monorepos with multiple packages.
+* **[Changesets](https://github.com/changesets/changesets) ⭐ 12,333 | 🐛 254 | 🌐 TypeScript | 📅 2026-08-26**: A workflow tool for managing versioning and changelogs in monorepos with multiple packages.
 * **[Turborepo](https://turbo.build/repo)**: High-performance build system for JavaScript and TypeScript monorepos with smart caching.
 * **[Nx](https://nx.dev/)**: A powerful open-source build system with first-class React support and smart monorepo tooling.
 * **[Lerna](https://lerna.js.org/)**: The original monorepo tool for managing and publishing multiple JavaScript packages from one repo.
@@ -628,7 +628,7 @@ Essential libraries and tools for building modern React applications.
 
 *Essential open-source repositories every React developer should know.*
 
-* **[React](https://github.com/facebook/react) ⭐ 247,979 | 🐛 1,273 | 🌐 JavaScript | 📅 2026-08-26**: The official repository for React, maintained by Facebook.
+* **[React](https://github.com/facebook/react) ⭐ 247,988 | 🐛 1,275 | 🌐 JavaScript | 📅 2026-08-26**: The official repository for React, maintained by Facebook.
 
 ## YouTube Channels
 
