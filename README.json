@@ -12,11 +12,12 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T19:53:08Z",
+            "last_commit": "2026-08-28T11:10:40Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247988
-          }
+            "stars": 248008
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "Official Resources"
@@ -37,7 +38,8 @@
             "owner": "molefrog",
             "repo": "wouter",
             "stars": 7867
-          }
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "Routing"
@@ -57,8 +59,9 @@
             "last_commit": "2025-08-18T04:35:31Z",
             "owner": "atlassian",
             "repo": "react-beautiful-dnd",
-            "stars": 33945
-          }
+            "stars": 33946
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "SortableJS",
             "repo": "react-sortablejs",
             "stars": 2173
-          }
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         },
         {
           "node_type": "item",
@@ -88,7 +92,8 @@
             "owner": "bevacqua",
             "repo": "react-dragula",
             "stars": 997
-          }
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "Drag & Drop"
@@ -108,8 +113,9 @@
             "last_commit": "2025-01-20T21:42:24Z",
             "owner": "bvaughn",
             "repo": "react-virtualized",
-            "stars": 27080
-          }
+            "stars": 27081
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         },
         {
           "node_type": "item",
@@ -124,7 +130,8 @@
             "owner": "inokawa",
             "repo": "virtua",
             "stars": 3728
-          }
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "Virtualization"
@@ -145,7 +152,8 @@
             "owner": "cookpete",
             "repo": "react-player",
             "stars": 10278
-          }
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         },
         {
           "node_type": "item",
@@ -160,7 +168,8 @@
             "owner": "mozmorris",
             "repo": "react-webcam",
             "stars": 1750
-          }
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         },
         {
           "node_type": "item",
@@ -175,7 +184,8 @@
             "owner": "leoasis",
             "repo": "react-sound",
             "stars": 490
-          }
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "Audio & Video"
@@ -196,7 +206,8 @@
             "owner": "nfl",
             "repo": "react-helmet",
             "stars": 17459
-          }
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         },
         {
           "node_type": "item",
@@ -210,8 +221,9 @@
             "last_commit": "2026-07-29T19:47:06Z",
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8507
-          }
+            "stars": 8509
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "Search Engine Optimization"
@@ -232,7 +244,8 @@
             "owner": "validatorjs",
             "repo": "validator.js",
             "stars": 23738
-          }
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "Validations"
@@ -249,11 +262,12 @@
             "archived": false,
             "id": 1156960719,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T22:39:59Z",
+            "last_commit": "2026-08-28T22:42:49Z",
             "owner": "millionco",
             "repo": "react-doctor",
-            "stars": 14637
-          }
+            "stars": 14646
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "DevTools"
@@ -273,8 +287,9 @@
             "last_commit": "2026-08-03T18:44:59Z",
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 865
-          }
+            "stars": 903
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "Testing"
@@ -295,7 +310,8 @@
             "owner": "loktar00",
             "repo": "react-lazy-load",
             "stars": 981
-          }
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "Performance Optimization"
@@ -316,7 +332,8 @@
             "owner": "jamiebuilds",
             "repo": "react-loadable",
             "stars": 16507
-          }
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "Code Splitting"
@@ -337,7 +354,8 @@
             "owner": "winstonjs",
             "repo": "winston",
             "stars": 24511
-          }
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         },
         {
           "node_type": "item",
@@ -351,8 +369,9 @@
             "last_commit": "2024-06-10T15:48:22Z",
             "owner": "lukeed",
             "repo": "clsx",
-            "stars": 9832
-          }
+            "stars": 9833
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "Utilities"
@@ -373,7 +392,8 @@
             "owner": "dominictobias",
             "repo": "react-image-crop",
             "stars": 4103
-          }
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         },
         {
           "node_type": "item",
@@ -388,7 +408,8 @@
             "owner": "tam315",
             "repo": "react-compare-image",
             "stars": 407
-          }
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "Miscellaneous"
@@ -405,11 +426,12 @@
             "archived": false,
             "id": 438419937,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:46:42Z",
+            "last_commit": "2026-08-28T22:36:05Z",
             "owner": "openai",
             "repo": "openai-node",
-            "stars": 11146
-          }
+            "stars": 11147
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         },
         {
           "node_type": "item",
@@ -420,11 +442,12 @@
             "archived": false,
             "id": 595176353,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:22:28Z",
+            "last_commit": "2026-08-28T15:47:48Z",
             "owner": "anthropics",
             "repo": "anthropic-sdk-typescript",
-            "stars": 2099
-          }
+            "stars": 2100
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "AI & LLM Integration"
@@ -441,11 +464,12 @@
             "archived": false,
             "id": 177033748,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T09:46:37Z",
+            "last_commit": "2026-08-28T16:59:22Z",
             "owner": "changesets",
             "repo": "changesets",
-            "stars": 12333
-          }
+            "stars": 12341
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "Monorepo Tools"
@@ -462,18 +486,19 @@
             "archived": false,
             "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T19:53:08Z",
+            "last_commit": "2026-08-28T11:10:40Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247988
-          }
+            "stars": 248008
+          },
+          "first_seen": "2026-08-28T23:01:12.201Z"
         }
       ],
       "title": "GitHub Repositories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:57:00.195Z",
+    "last_updated": "2026-08-28T23:01:12.201Z",
     "original_repository_info": {
       "archived": false,
       "id": 880326116,
