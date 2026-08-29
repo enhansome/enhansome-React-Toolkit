@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The library for web and native user interfaces.",
+            "homepage": "https://react.dev",
             "id": 10270250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:10:40Z",
+            "open_issues": 1281,
             "owner": "react",
             "repo": "react",
-            "stars": 248008
+            "stars": 248016,
+            "topics": [
+              "declarative",
+              "frontend",
+              "javascript",
+              "library",
+              "react",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -32,12 +44,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥢 A minimalist-friendly ~2.2KB routing for React and Preact",
+            "homepage": "https://npm.im/wouter",
             "id": 180418592,
             "language": "TypeScript",
+            "license": "Unlicense",
             "last_commit": "2026-08-21T16:12:40Z",
+            "open_issues": 30,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7867
+            "stars": 7867,
+            "topics": [
+              "hacktoberfest",
+              "microlibrary",
+              "preact",
+              "react",
+              "react-hooks",
+              "react-router",
+              "router",
+              "typescript",
+              "zero-dependency"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -54,12 +81,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Beautiful and accessible drag and drop for lists with React",
+            "homepage": "https://react-beautiful-dnd.netlify.app",
             "id": 99761907,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-08-18T04:35:31Z",
+            "open_issues": 642,
             "owner": "atlassian",
             "repo": "react-beautiful-dnd",
-            "stars": 33946
+            "stars": 33946,
+            "topics": [
+              "dnd",
+              "drag",
+              "drag-and-drop",
+              "react",
+              "reordering",
+              "sortable"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         },
@@ -70,12 +109,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React bindings for SortableJS",
+            "homepage": "http://sortablejs.github.io/react-sortablejs/",
             "id": 53563895,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-12-06T13:47:48Z",
+            "open_issues": 109,
             "owner": "SortableJS",
             "repo": "react-sortablejs",
-            "stars": 2173
+            "stars": 2173,
+            "topics": [
+              "drag-and-drop",
+              "draggable",
+              "multidrag",
+              "react",
+              "sortable"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         },
@@ -86,12 +136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":ok_hand: Drag and drop so simple it hurts",
+            "homepage": "http://bevacqua.github.io/react-dragula",
             "id": 40202688,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-09-09T17:28:40Z",
+            "open_issues": 25,
             "owner": "bevacqua",
             "repo": "react-dragula",
-            "stars": 997
+            "stars": 997,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -108,12 +163,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React components for efficiently rendering large lists and tabular data",
+            "homepage": "http://bvaughn.github.io/react-virtualized/",
             "id": 45431898,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-01-20T21:42:24Z",
+            "open_issues": 1,
             "owner": "bvaughn",
             "repo": "react-virtualized",
-            "stars": 27081
+            "stars": 27081,
+            "topics": [
+              "grid",
+              "list",
+              "listview",
+              "performance",
+              "react",
+              "react-components",
+              "tabular-data",
+              "virtualization",
+              "windowing"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         },
@@ -124,12 +194,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid, Svelte and Angular.",
+            "homepage": "https://inokawa.github.io/virtua/",
             "id": 549650165,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T18:22:50Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:08:38Z",
+            "open_issues": 67,
             "owner": "inokawa",
             "repo": "virtua",
-            "stars": 3728
+            "stars": 3728,
+            "topics": [
+              "angular",
+              "headlessui",
+              "infinite-scroll",
+              "performance",
+              "react",
+              "react-component",
+              "scrolling",
+              "solid",
+              "svelte",
+              "tabular-data",
+              "virtual-list",
+              "virtual-scroll",
+              "virtualization",
+              "virtualized",
+              "vue",
+              "windowing"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -146,12 +238,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion",
+            "homepage": "https://cookpete.github.io/react-player",
             "id": 40963709,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-13T19:27:44Z",
+            "open_issues": 61,
             "owner": "cookpete",
             "repo": "react-player",
-            "stars": 10278
+            "stars": 10278,
+            "topics": [
+              "audio",
+              "dailymotion",
+              "dash",
+              "facebook",
+              "hls",
+              "media",
+              "player",
+              "react",
+              "soundcloud",
+              "streamable",
+              "twitch",
+              "video",
+              "vimeo",
+              "wistia",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         },
@@ -162,12 +275,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webcam component",
+            "homepage": "https://codepen.io/mozmorris/pen/JLZdoP",
             "id": 27957693,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-10T15:04:48Z",
+            "open_issues": 65,
             "owner": "mozmorris",
             "repo": "react-webcam",
-            "stars": 1750
+            "stars": 1750,
+            "topics": [
+              "getusermedia",
+              "react",
+              "reactjs",
+              "webcam",
+              "webcam-component"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         },
@@ -178,12 +302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sound component to play audio in your web apps",
+            "homepage": null,
             "id": 37271100,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2024-08-19T08:12:01Z",
+            "open_issues": 33,
             "owner": "leoasis",
             "repo": "react-sound",
-            "stars": 490
+            "stars": 490,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -200,12 +329,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A document head manager for React",
+            "homepage": null,
             "id": 37627792,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-18T19:57:38Z",
+            "open_issues": 219,
             "owner": "nfl",
             "repo": "react-helmet",
-            "stars": 17459
+            "stars": 17459,
+            "topics": [
+              "helmet",
+              "react",
+              "side-effect"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         },
@@ -216,12 +354,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next SEO is a plug in that makes managing your SEO easier in Next.js projects.",
+            "homepage": null,
             "id": 137128945,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-29T19:47:06Z",
+            "open_issues": 7,
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8509
+            "stars": 8509,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "json-ld",
+              "nextjs",
+              "react",
+              "seo",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -238,12 +389,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "String validation",
+            "homepage": null,
             "id": 965782,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-15T19:20:16Z",
+            "open_issues": 489,
             "owner": "validatorjs",
             "repo": "validator.js",
-            "stars": 23738
+            "stars": 23738,
+            "topics": [
+              "hacktoberfest",
+              "input",
+              "javascript",
+              "node",
+              "sanitization",
+              "sanitize",
+              "validate",
+              "validation",
+              "validations",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -260,12 +427,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your agent writes bad React. This catches it",
+            "homepage": "https://react.doctor",
             "id": 1156960719,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T22:42:49Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:37:01Z",
+            "open_issues": 86,
             "owner": "millionco",
             "repo": "react-doctor",
-            "stars": 14646
+            "stars": 14648,
+            "topics": [
+              "agents",
+              "code-review",
+              "doctor",
+              "react",
+              "skill"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -282,12 +460,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+            "homepage": "https://vostride.com",
             "id": 1232322871,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T18:44:59Z",
+            "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 903
+            "stars": 913,
+            "topics": [
+              "ai-agents",
+              "ai-testing",
+              "anthropic",
+              "autonomous-agents",
+              "browser-automation",
+              "chatgpt",
+              "claude-code",
+              "clawdbot",
+              "codex",
+              "developer-tools",
+              "dsh-plugin",
+              "end-to-end-testing",
+              "frontend",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "openai",
+              "playwright",
+              "qa-automation"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -304,12 +508,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React component that renders children elements when they enter the viewport.",
+            "homepage": null,
             "id": 31480732,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-14T15:10:54Z",
+            "open_issues": 20,
             "owner": "loktar00",
             "repo": "react-lazy-load",
-            "stars": 981
+            "stars": 981,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -326,12 +535,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":hourglass_flowing_sand: A higher order component for loading components with promises.",
+            "homepage": null,
             "id": 84476389,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-10T11:51:12Z",
+            "open_issues": 34,
             "owner": "jamiebuilds",
             "repo": "react-loadable",
-            "stars": 16507
+            "stars": 16507,
+            "topics": [
+              "async",
+              "babel-plugin",
+              "code-splitting",
+              "imports",
+              "loading",
+              "react",
+              "server-side-rendering",
+              "ssr",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -348,12 +572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A logger for just about everything.",
+            "homepage": "http://github.com/winstonjs/winston",
             "id": 1206546,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-20T19:12:28Z",
+            "open_issues": 530,
             "owner": "winstonjs",
             "repo": "winston",
-            "stars": 24511
+            "stars": 24511,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         },
@@ -364,12 +593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny (239B) utility for constructing `className` strings conditionally.",
+            "homepage": null,
             "id": 163027171,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-10T15:48:22Z",
+            "open_issues": 15,
             "owner": "lukeed",
             "repo": "clsx",
-            "stars": 9833
+            "stars": 9832,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -386,12 +620,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A responsive image cropping tool for React",
+            "homepage": null,
             "id": 43984013,
             "language": "TypeScript",
+            "license": "ISC",
             "last_commit": "2026-06-21T18:33:47Z",
+            "open_issues": 73,
             "owner": "dominictobias",
             "repo": "react-image-crop",
-            "stars": 4103
+            "stars": 4103,
+            "topics": [
+              "crop-image",
+              "javascript",
+              "react",
+              "responsive"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         },
@@ -402,12 +646,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React component to compare two images with a slider",
+            "homepage": "https://react-compare-image.yuuniworks.com",
             "id": 134489592,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T00:10:07Z",
+            "open_issues": 9,
             "owner": "tam315",
             "repo": "react-compare-image",
-            "stars": 407
+            "stars": 407,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -424,12 +673,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official JavaScript / TypeScript library for the OpenAI API",
+            "homepage": "https://www.npmjs.com/package/openai",
             "id": 438419937,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:36:05Z",
+            "open_issues": 9,
             "owner": "openai",
             "repo": "openai-node",
-            "stars": 11147
+            "stars": 11147,
+            "topics": [
+              "nodejs",
+              "openai",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         },
@@ -440,12 +698,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Access to Anthropic's safety-first language model APIs in TypeScript",
+            "homepage": "https://www.npmjs.com/package/@anthropic-ai/sdk",
             "id": 595176353,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:47:48Z",
+            "open_issues": 54,
             "owner": "anthropics",
             "repo": "anthropic-sdk-typescript",
-            "stars": 2100
+            "stars": 2100,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -462,12 +725,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦋 A tool to manage versioning and changelogs with a focus on monorepos",
+            "homepage": "https://changesets.dev",
             "id": 177033748,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:59:22Z",
+            "open_issues": 257,
             "owner": "changesets",
             "repo": "changesets",
-            "stars": 12341
+            "stars": 12341,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -484,12 +752,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The library for web and native user interfaces.",
+            "homepage": "https://react.dev",
             "id": 10270250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:10:40Z",
+            "open_issues": 1281,
             "owner": "react",
             "repo": "react",
-            "stars": 248008
+            "stars": 248016,
+            "topics": [
+              "declarative",
+              "frontend",
+              "javascript",
+              "library",
+              "react",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
         }
@@ -498,15 +778,40 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:01:12.201Z",
+    "last_updated": "2026-08-29T05:00:32.161Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The React developer's toolkit curated libraries, tools, and resources.",
+      "homepage": "https://reacttoolkit.vercel.app",
       "id": 880326116,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-16T01:50:44Z",
+      "open_issues": 1,
       "owner": "drbarzaga",
       "repo": "React-Toolkit",
-      "stars": 92
+      "stars": 92,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "developer-tools",
+        "documentation",
+        "frontend",
+        "frontend-toolkit",
+        "hooks",
+        "javascript",
+        "pacakges",
+        "performance",
+        "react",
+        "testing",
+        "toolbox",
+        "toolkit",
+        "toolset",
+        "typescript",
+        "useful-utilities",
+        "vscode-extension",
+        "web-development"
+      ]
     },
     "original_repository_sha": "732244de336d237033bfa188406a7402cd5640df",
     "enhanced_repository": "enhansome/enhansome-React-Toolkit",
