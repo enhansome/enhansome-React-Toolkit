@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-04T20:59:38Z",
-            "open_issues": 1342,
+            "open_issues": 1343,
             "owner": "react",
             "repo": "react",
-            "stars": 249090,
+            "stars": 249141,
             "topics": [
               "declarative",
               "frontend",
@@ -49,11 +49,11 @@
             "id": 180418592,
             "language": "TypeScript",
             "license": "Unlicense",
-            "last_commit": "2026-09-05T11:54:01Z",
+            "last_commit": "2026-09-05T18:21:18Z",
             "open_issues": 23,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7875,
+            "stars": 7876,
             "topics": [
               "hacktoberfest",
               "microlibrary",
@@ -118,7 +118,7 @@
             "open_issues": 109,
             "owner": "SortableJS",
             "repo": "react-sortablejs",
-            "stars": 2172,
+            "stars": 2171,
             "topics": [
               "drag-and-drop",
               "draggable",
@@ -199,8 +199,8 @@
             "id": 549650165,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T17:23:47Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-06T04:22:19Z",
+            "open_issues": 60,
             "owner": "inokawa",
             "repo": "virtua",
             "stars": 3735,
@@ -247,7 +247,7 @@
             "open_issues": 62,
             "owner": "cookpete",
             "repo": "react-player",
-            "stars": 10275,
+            "stars": 10276,
             "topics": [
               "audio",
               "dailymotion",
@@ -284,7 +284,7 @@
             "open_issues": 65,
             "owner": "mozmorris",
             "repo": "react-webcam",
-            "stars": 1749,
+            "stars": 1750,
             "topics": [
               "getusermedia",
               "react",
@@ -338,7 +338,7 @@
             "open_issues": 219,
             "owner": "nfl",
             "repo": "react-helmet",
-            "stars": 17457,
+            "stars": 17456,
             "topics": [
               "helmet",
               "react",
@@ -363,7 +363,7 @@
             "open_issues": 7,
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8508,
+            "stars": 8509,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-accepted",
@@ -395,7 +395,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-15T19:20:16Z",
-            "open_issues": 493,
+            "open_issues": 494,
             "owner": "validatorjs",
             "repo": "validator.js",
             "stars": 23736,
@@ -432,11 +432,11 @@
             "id": 1156960719,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T10:07:33Z",
-            "open_issues": 89,
+            "last_commit": "2026-09-06T15:18:52Z",
+            "open_issues": 82,
             "owner": "millionco",
             "repo": "react-doctor",
-            "stars": 14715,
+            "stars": 14722,
             "topics": [
               "agents",
               "code-review",
@@ -544,7 +544,7 @@
             "open_issues": 34,
             "owner": "jamiebuilds",
             "repo": "react-loadable",
-            "stars": 16506,
+            "stars": 16504,
             "topics": [
               "async",
               "babel-plugin",
@@ -581,7 +581,7 @@
             "open_issues": 531,
             "owner": "winstonjs",
             "repo": "winston",
-            "stars": 24517,
+            "stars": 24519,
             "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
@@ -602,7 +602,7 @@
             "open_issues": 16,
             "owner": "lukeed",
             "repo": "clsx",
-            "stars": 9835,
+            "stars": 9836,
             "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
@@ -678,11 +678,11 @@
             "id": 438419937,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T07:52:49Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-06T06:21:53Z",
+            "open_issues": 17,
             "owner": "openai",
             "repo": "openai-node",
-            "stars": 11157,
+            "stars": 11160,
             "topics": [
               "nodejs",
               "openai",
@@ -707,7 +707,7 @@
             "open_issues": 54,
             "owner": "anthropics",
             "repo": "anthropic-sdk-typescript",
-            "stars": 2106,
+            "stars": 2107,
             "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
@@ -730,11 +730,11 @@
             "id": 177033748,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T07:46:25Z",
-            "open_issues": 256,
+            "last_commit": "2026-09-06T16:09:35Z",
+            "open_issues": 261,
             "owner": "changesets",
             "repo": "changesets",
-            "stars": 12366,
+            "stars": 12374,
             "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
@@ -758,10 +758,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-04T20:59:38Z",
-            "open_issues": 1342,
+            "open_issues": 1343,
             "owner": "react",
             "repo": "react",
-            "stars": 249090,
+            "stars": 249141,
             "topics": [
               "declarative",
               "frontend",
@@ -778,7 +778,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:02:28.895Z",
+    "last_updated": "2026-09-06T16:14:52.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "The React developer's toolkit curated libraries, tools, and resources.",
