@@ -15,11 +15,11 @@
             "id": 10270250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T23:35:47Z",
-            "open_issues": 1368,
+            "last_commit": "2026-09-13T10:42:11Z",
+            "open_issues": 1370,
             "owner": "react",
             "repo": "react",
-            "stars": 250051,
+            "stars": 250401,
             "topics": [
               "declarative",
               "frontend",
@@ -50,10 +50,10 @@
             "language": "TypeScript",
             "license": "Unlicense",
             "last_commit": "2026-09-05T18:21:18Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7887,
+            "stars": 7889,
             "topics": [
               "hacktoberfest",
               "microlibrary",
@@ -154,6 +154,70 @@
       "title": "Drag & Drop"
     },
     {
+      "description": "Component libraries and design systems to build polished interfaces fast.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ivy Tendril",
+          "description": "Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AI agents can now write 99% of the code. This changes what it means to be a developer. Our role shifts to knowing \"what good looks like\". To do that, we need completely new developer tools. Tendril is what replaces your IDE in an agentic era. ",
+            "homepage": "https://ivy.app",
+            "id": 1211796176,
+            "language": "C#",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-13T15:50:57Z",
+            "open_issues": 174,
+            "owner": "Ivy-Interactive",
+            "repo": "Ivy-Tendril",
+            "stars": 190,
+            "topics": [
+              "agentic-coding",
+              "agentic-workflow",
+              "chatgpt",
+              "claude-code",
+              "codex",
+              "gemini",
+              "git",
+              "opencode",
+              "software-factory"
+            ]
+          },
+          "first_seen": "2026-09-13T16:57:23.271Z"
+        }
+      ],
+      "title": "UI Frameworks & Libraries"
+    },
+    {
+      "description": "Curated collections of reusable custom hooks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Use",
+          "description": "A library of essential React hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "React Hooks — 👍",
+            "homepage": "http://streamich.github.io/react-use",
+            "id": 154950925,
+            "language": "TypeScript",
+            "license": "Unlicense",
+            "last_commit": "2026-06-10T18:51:23Z",
+            "open_issues": 664,
+            "owner": "streamich",
+            "repo": "react-use",
+            "stars": 44010,
+            "topics": []
+          },
+          "first_seen": "2026-09-13T16:57:23.271Z"
+        }
+      ],
+      "title": "Hooks"
+    },
+    {
       "description": "Render massive lists and grids without sacrificing performance.",
       "items": [
         {
@@ -172,7 +236,7 @@
             "open_issues": 0,
             "owner": "bvaughn",
             "repo": "react-virtualized",
-            "stars": 27074,
+            "stars": 27073,
             "topics": [
               "grid",
               "list",
@@ -281,7 +345,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-03-10T15:04:48Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "mozmorris",
             "repo": "react-webcam",
             "stars": 1750,
@@ -363,7 +427,7 @@
             "open_issues": 7,
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8512,
+            "stars": 8511,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-accepted",
@@ -395,7 +459,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-11T10:17:07Z",
-            "open_issues": 502,
+            "open_issues": 503,
             "owner": "validatorjs",
             "repo": "validator.js",
             "stars": 23735,
@@ -432,11 +496,11 @@
             "id": 1156960719,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T14:36:29Z",
-            "open_issues": 101,
+            "last_commit": "2026-09-13T15:45:16Z",
+            "open_issues": 103,
             "owner": "millionco",
             "repo": "react-doctor",
-            "stars": 14832,
+            "stars": 14837,
             "topics": [
               "agents",
               "code-review",
@@ -682,7 +746,7 @@
             "open_issues": 22,
             "owner": "openai",
             "repo": "openai-node",
-            "stars": 11171,
+            "stars": 11172,
             "topics": [
               "nodejs",
               "openai",
@@ -704,10 +768,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-10T17:48:24Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "anthropics",
             "repo": "anthropic-sdk-typescript",
-            "stars": 2114,
+            "stars": 2116,
             "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
@@ -730,11 +794,11 @@
             "id": 177033748,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T22:27:45Z",
-            "open_issues": 262,
+            "last_commit": "2026-09-13T16:13:57Z",
+            "open_issues": 264,
             "owner": "changesets",
             "repo": "changesets",
-            "stars": 12386,
+            "stars": 12389,
             "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
@@ -757,11 +821,11 @@
             "id": 10270250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T23:35:47Z",
-            "open_issues": 1368,
+            "last_commit": "2026-09-13T10:42:11Z",
+            "open_issues": 1370,
             "owner": "react",
             "repo": "react",
-            "stars": 250051,
+            "stars": 250401,
             "topics": [
               "declarative",
               "frontend",
@@ -778,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T16:17:24.305Z",
+    "last_updated": "2026-09-13T16:57:23.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "The React developer's toolkit curated libraries, tools, and resources.",
@@ -786,8 +850,8 @@
       "id": 880326116,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-04T00:41:39Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-12T17:33:31Z",
+      "open_issues": 0,
       "owner": "drbarzaga",
       "repo": "React-Toolkit",
       "stars": 92,
@@ -813,7 +877,7 @@
         "web-development"
       ]
     },
-    "original_repository_sha": "8a495e7bbd6bab84e595183c2af7cdf83ade328f",
+    "original_repository_sha": "84aaeb97e303f1d0adafbca0ac02b2e27ac9966b",
     "enhanced_repository": "enhansome/enhansome-React-Toolkit",
     "enhanced_repository_description": null,
     "title": "Awesome React Toolkit with stars"
