@@ -116,7 +116,7 @@ Essential libraries and tools for building modern React applications.
 
 *The starting point — directly from the React team.*
 
-* **[React Repository](https://github.com/facebook/react) ⭐ 250,401 | 🐛 1,370 | 🌐 JavaScript | 📅 2026-09-13**
+* **[React Repository](https://github.com/facebook/react) ⭐ 250,431 | 🐛 1,371 | 🌐 JavaScript | 📅 2026-09-14**
 * **[React Website](https://react.dev/)**
 * **[React Community](https://react.dev/community)**
 * **[React Blog](https://react.dev/blog)**
@@ -150,7 +150,7 @@ Essential libraries and tools for building modern React applications.
 
 *Client-side navigation and URL management.*
 
-* **[Wouter](https://github.com/molefrog/wouter) ⭐ 7,889 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-05**: A minimalist-friendly \~2.1KB routing for React and Preact.
+* **[Wouter](https://github.com/molefrog/wouter) ⭐ 7,892 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-05**: A minimalist-friendly \~2.1KB routing for React and Preact.
 * **[Tanstack Router](https://tanstack.com/router/latest)**: A powerful routing library for React applications.
 * **[React Router](https://reactrouter.com/)**: The standard routing library for React applications.
 * **[Reach Router](https://reach.tech/router)**: A routing library with a focus on accessibility and simplicity.
@@ -174,7 +174,7 @@ Essential libraries and tools for building modern React applications.
 
 *Component libraries and design systems to build polished interfaces fast.*
 
-* **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) ⭐ 190 | 🐛 174 | 🌐 C# | 📅 2026-09-13**: Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
+* **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) ⭐ 191 | 🐛 184 | 🌐 C# | 📅 2026-09-14**: Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 * **[Shadcn UI](https://ui.shadcn.com/)**: A modern UI framework for building responsive and accessible web applications.
 * **[Eldora UI](https://www.eldoraui.site/)**: An open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
 * **[Radix UI](https://www.radix-ui.com/)**: An open source component library optimized for fast development, easy maintenance, and accessibility.
@@ -250,7 +250,7 @@ Essential libraries and tools for building modern React applications.
 
 *Curated collections of reusable custom hooks.*
 
-* **[React Use](https://github.com/streamich/react-use) ⭐ 44,010 | 🐛 664 | 🌐 TypeScript | 📅 2026-06-10**: A library of essential React hooks.
+* **[React Use](https://github.com/streamich/react-use) ⭐ 44,009 | 🐛 664 | 🌐 TypeScript | 📅 2026-06-10**: A library of essential React hooks.
 * **[useHooks](https://usehooks.com/)**: A collection of reusable React hooks.
 * **[usehooks-ts](https://usehooks-ts.com/)**: React hook library, ready to use, written in Typescript.
 * **[Novajs](https://novajs.dev/)**: A collection of dependency-free React hooks.
@@ -333,8 +333,8 @@ Essential libraries and tools for building modern React applications.
 
 *Render massive lists and grids without sacrificing performance.*
 
-* **[React Virtualized](https://github.com/bvaughn/react-virtualized) ⭐ 27,073 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-20**: A set of React components for efficiently rendering large lists and tabular data.
-* **[Virtua](https://github.com/inokawa/virtua) ⭐ 3,743 | 🐛 62 | 🌐 TypeScript | 📅 2026-09-12**: A virtual list and grid library for React.
+* **[React Virtualized](https://github.com/bvaughn/react-virtualized) ⭐ 27,074 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-20**: A set of React components for efficiently rendering large lists and tabular data.
+* **[Virtua](https://github.com/inokawa/virtua) ⭐ 3,744 | 🐛 63 | 🌐 TypeScript | 📅 2026-09-12**: A virtual list and grid library for React.
 * **[Tanstack Virtual](https://tanstack.com/virtual/latest)**: A powerful virtual list and grid library for React applications.
 * **[Semiotic](https://semiotic.nteract.io/)**: A data visualization framework for React.
 
@@ -412,7 +412,7 @@ Essential libraries and tools for building modern React applications.
 *Manage meta tags, titles, and structured data for better discoverability.*
 
 * **[React Helmet](https://github.com/nfl/react-helmet) ⭐ 17,454 | 🐛 219 | 🌐 JavaScript | 📅 2023-07-18**: A reusable React component that manages changes to the document head.
-* **[Next SEO](https://github.com/garmeeh/next-seo) ⭐ 8,511 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-29**: A plugin that makes managing SEO easier in Next.js projects.
+* **[Next SEO](https://github.com/garmeeh/next-seo) ⭐ 8,513 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-29**: A plugin that makes managing SEO easier in Next.js projects.
 * **[React Meta Tags](https://www.npmjs.com/package/react-meta-tags)**: A library for managing meta tags in React applications.
 
 ## Validations
@@ -448,7 +448,7 @@ Essential libraries and tools for building modern React applications.
 
 *Debugging and inspection tools for React applications.*
 
-* **[React Doctor](https://github.com/millionco/react-doctor) ⭐ 14,837 | 🐛 103 | 🌐 TypeScript | 📅 2026-09-13**: AI-powered diagnostic tool that analyzes your React code for performance issues, security problems, and best practices.
+* **[React Doctor](https://github.com/millionco/react-doctor) ⭐ 14,842 | 🐛 106 | 🌐 TypeScript | 📅 2026-09-14**: AI-powered diagnostic tool that analyzes your React code for performance issues, security problems, and best practices.
 * **[React Developer Tools](https://react.dev/learn/react-developer-tools)**: Official React DevTools for inspecting React component hierarchy.
 * **[Redux DevTools](https://redux.js.org/tutorials/fundamentals/part-4-store#redux-devtools)**: DevTools for Redux to help debug application state changes.
 * **[React Grab](https://www.react-grab.com/)**: Capture React component trees and pass them as context to AI coding agents directly from the browser.
@@ -520,8 +520,8 @@ Essential libraries and tools for building modern React applications.
 
 *Essential helpers for dates, logging, immutability, and more.*
 
-* **[Winston](https://github.com/winstonjs/winston) ⭐ 24,519 | 🐛 532 | 🌐 JavaScript | 📅 2026-07-20**: A logger for just about everything.
-* **[clsx](https://github.com/lukeed/clsx) ⭐ 9,837 | 🐛 16 | 🌐 JavaScript | 📅 2024-06-10**: A tiny utility for constructing className strings conditionally in React components.
+* **[Winston](https://github.com/winstonjs/winston) ⭐ 24,520 | 🐛 532 | 🌐 JavaScript | 📅 2026-07-20**: A logger for just about everything.
+* **[clsx](https://github.com/lukeed/clsx) ⭐ 9,838 | 🐛 16 | 🌐 JavaScript | 📅 2024-06-10**: A tiny utility for constructing className strings conditionally in React components.
 * **[Axios](https://axios-http.com/)**: A promise-based HTTP client for the browser and Node.js.
 * **[Lodash](https://lodash.com/)**: A modern JavaScript utility library delivering modularity, performance & extras.
 * **[date-fns](https://date-fns.org/)**: Modern JavaScript date utility library.
@@ -556,8 +556,8 @@ Essential libraries and tools for building modern React applications.
 
 *Integrate language models and run ML inference directly in your React app.*
 
-* **[OpenAI Node SDK](https://github.com/openai/openai-node) ⭐ 11,172 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-11**: Official OpenAI SDK for TypeScript/JavaScript to integrate GPT models into your React applications.
-* **[Anthropic SDK](https://github.com/anthropics/anthropic-sdk-typescript) ⭐ 2,116 | 🐛 63 | 🌐 TypeScript | 📅 2026-09-10**: Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.
+* **[OpenAI Node SDK](https://github.com/openai/openai-node) ⭐ 11,174 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-14**: Official OpenAI SDK for TypeScript/JavaScript to integrate GPT models into your React applications.
+* **[Anthropic SDK](https://github.com/anthropics/anthropic-sdk-typescript) ⭐ 2,116 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-10**: Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.
 * **[Vercel AI SDK](https://sdk.vercel.ai/)**: The AI Toolkit for TypeScript. Build AI-powered products with React streaming UI and LLM integrations.
 * **[Markstream](https://markstream.simonhe.me/)**: Open-source streaming Markdown renderer for React AI chat interfaces, with incomplete-token handling, Mermaid, KaTeX, syntax highlighting, safe HTML, SSR, and React 18/19 support.
 * **[LangChain.js](https://js.langchain.com/)**: A framework for developing applications powered by language models in JavaScript and TypeScript.
@@ -578,7 +578,7 @@ Essential libraries and tools for building modern React applications.
 
 *Manage multiple packages in a single repository efficiently.*
 
-* **[Changesets](https://github.com/changesets/changesets) ⭐ 12,389 | 🐛 264 | 🌐 TypeScript | 📅 2026-09-13**: A workflow tool for managing versioning and changelogs in monorepos with multiple packages.
+* **[Changesets](https://github.com/changesets/changesets) ⭐ 12,390 | 🐛 256 | 🌐 TypeScript | 📅 2026-09-14**: A workflow tool for managing versioning and changelogs in monorepos with multiple packages.
 * **[Turborepo](https://turbo.build/repo)**: High-performance build system for JavaScript and TypeScript monorepos with smart caching.
 * **[Nx](https://nx.dev/)**: A powerful open-source build system with first-class React support and smart monorepo tooling.
 * **[Lerna](https://lerna.js.org/)**: The original monorepo tool for managing and publishing multiple JavaScript packages from one repo.
@@ -632,7 +632,7 @@ Essential libraries and tools for building modern React applications.
 
 *Essential open-source repositories every React developer should know.*
 
-* **[React](https://github.com/facebook/react) ⭐ 250,401 | 🐛 1,370 | 🌐 JavaScript | 📅 2026-09-13**: The official repository for React, maintained by Facebook.
+* **[React](https://github.com/facebook/react) ⭐ 250,431 | 🐛 1,371 | 🌐 JavaScript | 📅 2026-09-14**: The official repository for React, maintained by Facebook.
 
 ## YouTube Channels
 
@@ -681,4 +681,4 @@ Made with care for the React community · If you find it useful, consider leavin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
