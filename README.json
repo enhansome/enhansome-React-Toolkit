@@ -15,11 +15,11 @@
             "id": 10270250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T16:39:12Z",
-            "open_issues": 1371,
+            "last_commit": "2026-09-16T10:35:59Z",
+            "open_issues": 1373,
             "owner": "react",
             "repo": "react",
-            "stars": 250462,
+            "stars": 250489,
             "topics": [
               "declarative",
               "frontend",
@@ -53,7 +53,7 @@
             "open_issues": 23,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7894,
+            "stars": 7893,
             "topics": [
               "hacktoberfest",
               "microlibrary",
@@ -90,7 +90,7 @@
             "open_issues": 642,
             "owner": "atlassian",
             "repo": "react-beautiful-dnd",
-            "stars": 33929,
+            "stars": 33928,
             "topics": [
               "dnd",
               "drag",
@@ -169,7 +169,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T12:04:08Z",
-            "open_issues": 195,
+            "open_issues": 196,
             "owner": "Ivy-Interactive",
             "repo": "Ivy-Tendril",
             "stars": 194,
@@ -209,7 +209,7 @@
             "open_issues": 664,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44008,
+            "stars": 44007,
             "topics": []
           },
           "first_seen": "2026-09-13T16:57:23.271Z"
@@ -236,7 +236,7 @@
             "open_issues": 0,
             "owner": "bvaughn",
             "repo": "react-virtualized",
-            "stars": 27075,
+            "stars": 27074,
             "topics": [
               "grid",
               "list",
@@ -258,12 +258,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A zero-config, fast and small (~3kB) virtual list and grid component for React, Vue, Solid, Svelte and Angular.",
+            "description": "A zero-config, fast and small virtual list and grid component for React, Vue, Solid, Svelte and Angular.",
             "homepage": "https://inokawa.github.io/virtua/",
             "id": 549650165,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T17:05:49Z",
+            "last_commit": "2026-09-16T16:37:37Z",
             "open_issues": 63,
             "owner": "inokawa",
             "repo": "virtua",
@@ -311,7 +311,7 @@
             "open_issues": 62,
             "owner": "cookpete",
             "repo": "react-player",
-            "stars": 10275,
+            "stars": 10277,
             "topics": [
               "audio",
               "dailymotion",
@@ -427,7 +427,7 @@
             "open_issues": 7,
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8514,
+            "stars": 8513,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-accepted",
@@ -459,10 +459,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-11T10:17:07Z",
-            "open_issues": 504,
+            "open_issues": 505,
             "owner": "validatorjs",
             "repo": "validator.js",
-            "stars": 23735,
+            "stars": 23734,
             "topics": [
               "hacktoberfest",
               "input",
@@ -496,11 +496,11 @@
             "id": 1156960719,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T06:01:04Z",
-            "open_issues": 111,
+            "last_commit": "2026-09-16T07:17:46Z",
+            "open_issues": 113,
             "owner": "millionco",
             "repo": "react-doctor",
-            "stars": 14851,
+            "stars": 14859,
             "topics": [
               "agents",
               "code-review",
@@ -533,7 +533,7 @@
             "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 910,
+            "stars": 911,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -608,7 +608,7 @@
             "open_issues": 34,
             "owner": "jamiebuilds",
             "repo": "react-loadable",
-            "stars": 16500,
+            "stars": 16499,
             "topics": [
               "async",
               "babel-plugin",
@@ -666,7 +666,7 @@
             "open_issues": 16,
             "owner": "lukeed",
             "repo": "clsx",
-            "stars": 9839,
+            "stars": 9838,
             "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
@@ -742,11 +742,11 @@
             "id": 438419937,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T16:48:19Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-16T17:34:08Z",
+            "open_issues": 5,
             "owner": "openai",
             "repo": "openai-node",
-            "stars": 11176,
+            "stars": 11178,
             "topics": [
               "nodejs",
               "openai",
@@ -768,10 +768,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-15T17:34:43Z",
-            "open_issues": 75,
+            "open_issues": 74,
             "owner": "anthropics",
             "repo": "anthropic-sdk-typescript",
-            "stars": 2116,
+            "stars": 2117,
             "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
@@ -794,11 +794,11 @@
             "id": 177033748,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T15:27:09Z",
-            "open_issues": 256,
+            "last_commit": "2026-09-16T14:34:21Z",
+            "open_issues": 258,
             "owner": "changesets",
             "repo": "changesets",
-            "stars": 12396,
+            "stars": 12397,
             "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
@@ -821,11 +821,11 @@
             "id": 10270250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T16:39:12Z",
-            "open_issues": 1371,
+            "last_commit": "2026-09-16T10:35:59Z",
+            "open_issues": 1373,
             "owner": "react",
             "repo": "react",
-            "stars": 250462,
+            "stars": 250489,
             "topics": [
               "declarative",
               "frontend",
@@ -842,7 +842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:39:44.314Z",
+    "last_updated": "2026-09-16T17:37:05.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "The React developer's toolkit curated libraries, tools, and resources.",
