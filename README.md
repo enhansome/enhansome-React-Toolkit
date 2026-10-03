@@ -4,9 +4,9 @@
 
 Essential libraries and tools for building modern React applications.
 
-[![Stars](https://img.shields.io/github/stars/drbarzaga/react-toolkit?style=flat-square\&color=yellow)](https://github.com/drbarzaga/react-toolkit/stargazers) ⭐ 93 | 🐛 0 | 📅 2026-10-02
-[![Forks](https://img.shields.io/github/forks/drbarzaga/react-toolkit?style=flat-square)](https://github.com/drbarzaga/react-toolkit/network/members) ⭐ 93 | 🐛 0 | 📅 2026-10-02
-[![Issues](https://img.shields.io/github/issues/drbarzaga/react-toolkit?style=flat-square)](https://github.com/drbarzaga/react-toolkit/issues) ⭐ 93 | 🐛 0 | 📅 2026-10-02
+[![Stars](https://img.shields.io/github/stars/drbarzaga/react-toolkit?style=flat-square\&color=yellow)](https://github.com/drbarzaga/react-toolkit/stargazers)
+[![Forks](https://img.shields.io/github/forks/drbarzaga/react-toolkit?style=flat-square)](https://github.com/drbarzaga/react-toolkit/network/members)
+[![Issues](https://img.shields.io/github/issues/drbarzaga/react-toolkit?style=flat-square)](https://github.com/drbarzaga/react-toolkit/issues)
 [![License](https://img.shields.io/github/license/drbarzaga/react-toolkit?style=flat-square)](LICENSE)
 
 [![Share on X](https://img.shields.io/badge/Share%20on%20X-black?logo=x\&style=flat-square)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20React%20toolkit%20collection!%20https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit)
@@ -116,7 +116,7 @@ Essential libraries and tools for building modern React applications.
 
 *The starting point — directly from the React team.*
 
-* **[React Repository](https://github.com/facebook/react) ⭐ 250,859 | 🐛 1,399 | 🌐 JavaScript | 📅 2026-10-02**
+* **[React Repository](https://github.com/facebook/react) ⭐ 250,863 | 🐛 1,406 | 🌐 JavaScript | 📅 2026-10-02**
 * **[React Website](https://react.dev/)**
 * **[React Community](https://react.dev/community)**
 * **[React Blog](https://react.dev/blog)**
@@ -250,7 +250,7 @@ Essential libraries and tools for building modern React applications.
 
 *Curated collections of reusable custom hooks.*
 
-* **[React Use](https://github.com/streamich/react-use) ⭐ 44,008 | 🐛 665 | 🌐 TypeScript | 📅 2026-06-10**: A library of essential React hooks.
+* **[React Use](https://github.com/streamich/react-use) ⭐ 44,007 | 🐛 665 | 🌐 TypeScript | 📅 2026-06-10**: A library of essential React hooks.
 * **[useHooks](https://usehooks.com/)**: A collection of reusable React hooks.
 * **[usehooks-ts](https://usehooks-ts.com/)**: React hook library, ready to use, written in Typescript.
 * **[Novajs](https://novajs.dev/)**: A collection of dependency-free React hooks.
@@ -333,8 +333,8 @@ Essential libraries and tools for building modern React applications.
 
 *Render massive lists and grids without sacrificing performance.*
 
-* **[React Virtualized](https://github.com/bvaughn/react-virtualized) ⭐ 27,074 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-20**: A set of React components for efficiently rendering large lists and tabular data.
-* **[Virtua](https://github.com/inokawa/virtua) ⭐ 3,750 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-02**: A virtual list and grid library for React.
+* **[React Virtualized](https://github.com/bvaughn/react-virtualized) ⭐ 27,073 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-20**: A set of React components for efficiently rendering large lists and tabular data.
+* **[Virtua](https://github.com/inokawa/virtua) ⭐ 3,749 | 🐛 55 | 🌐 TypeScript | 📅 2026-10-02**: A virtual list and grid library for React.
 * **[Tanstack Virtual](https://tanstack.com/virtual/latest)**: A powerful virtual list and grid library for React applications.
 * **[Semiotic](https://semiotic.nteract.io/)**: A data visualization framework for React.
 
@@ -403,7 +403,7 @@ Essential libraries and tools for building modern React applications.
 
 *Playback, recording, and programmatic video creation.*
 
-* **[React Player](https://github.com/cookpete/react-player) ⭐ 10,285 | 🐛 63 | 🌐 TypeScript | 📅 2026-10-02**: A React component for playing a variety of URLs, including YouTube, SoundCloud, and more.
+* **[React Player](https://github.com/cookpete/react-player) ⭐ 10,285 | 🐛 63 | 🌐 TypeScript | 📅 2026-10-03**: A React component for playing a variety of URLs, including YouTube, SoundCloud, and more.
 * **[React Webcam](https://github.com/mozmorris/react-webcam) ⭐ 1,751 | 🐛 67 | 🌐 TypeScript | 📅 2026-03-10**: A React component for accessing the user's webcam.
 * **[React Sound](https://github.com/leoasis/react-sound) ⭐ 490 | 🐛 33 | 🌐 JavaScript | 📅 2024-08-19**: A sound component to play audio in your React applications.
 * **[Remotion](https://www.remotion.dev/)**: A framework for creating videos programmatically using React.
@@ -449,7 +449,7 @@ Essential libraries and tools for building modern React applications.
 
 *Debugging and inspection tools for React applications.*
 
-* **[React Doctor](https://github.com/millionco/react-doctor) ⭐ 14,949 | 🐛 130 | 🌐 TypeScript | 📅 2026-10-01**: AI-powered diagnostic tool that analyzes your React code for performance issues, security problems, and best practices.
+* **[React Doctor](https://github.com/millionco/react-doctor) ⭐ 14,950 | 🐛 130 | 🌐 TypeScript | 📅 2026-10-01**: AI-powered diagnostic tool that analyzes your React code for performance issues, security problems, and best practices.
 * **[React Developer Tools](https://react.dev/learn/react-developer-tools)**: Official React DevTools for inspecting React component hierarchy.
 * **[Redux DevTools](https://redux.js.org/tutorials/fundamentals/part-4-store#redux-devtools)**: DevTools for Redux to help debug application state changes.
 * **[React Grab](https://www.react-grab.com/)**: Capture React component trees and pass them as context to AI coding agents directly from the browser.
@@ -633,7 +633,7 @@ Essential libraries and tools for building modern React applications.
 
 *Essential open-source repositories every React developer should know.*
 
-* **[React](https://github.com/facebook/react) ⭐ 250,859 | 🐛 1,399 | 🌐 JavaScript | 📅 2026-10-02**: The official repository for React, maintained by Facebook.
+* **[React](https://github.com/facebook/react) ⭐ 250,863 | 🐛 1,406 | 🌐 JavaScript | 📅 2026-10-02**: The official repository for React, maintained by Facebook.
 
 ## YouTube Channels
 
@@ -682,4 +682,4 @@ Made with care for the React community · If you find it useful, consider leavin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
