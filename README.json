@@ -15,11 +15,11 @@
             "id": 10270250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T19:12:26Z",
-            "open_issues": 1494,
+            "last_commit": "2026-10-27T15:08:39Z",
+            "open_issues": 1502,
             "owner": "react",
             "repo": "react",
-            "stars": 251872,
+            "stars": 251782,
             "topics": [
               "declarative",
               "frontend",
@@ -53,7 +53,7 @@
             "open_issues": 23,
             "owner": "molefrog",
             "repo": "wouter",
-            "stars": 7913,
+            "stars": 7915,
             "topics": [
               "hacktoberfest",
               "microlibrary",
@@ -90,7 +90,7 @@
             "open_issues": 642,
             "owner": "atlassian",
             "repo": "react-beautiful-dnd",
-            "stars": 33903,
+            "stars": 33901,
             "topics": [
               "dnd",
               "drag",
@@ -209,7 +209,7 @@
             "open_issues": 673,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 43989,
+            "stars": 43988,
             "topics": []
           },
           "first_seen": "2026-09-13T16:57:23.271Z"
@@ -263,11 +263,11 @@
             "id": 549650165,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T16:50:37Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-27T09:42:19Z",
+            "open_issues": 46,
             "owner": "inokawa",
             "repo": "virtua",
-            "stars": 3752,
+            "stars": 3753,
             "topics": [
               "angular",
               "datagrid",
@@ -314,7 +314,7 @@
             "open_issues": 69,
             "owner": "cookpete",
             "repo": "react-player",
-            "stars": 10294,
+            "stars": 10292,
             "topics": [
               "audio",
               "dailymotion",
@@ -405,7 +405,7 @@
             "open_issues": 219,
             "owner": "nfl",
             "repo": "react-helmet",
-            "stars": 17448,
+            "stars": 17445,
             "topics": [
               "helmet",
               "react",
@@ -430,7 +430,7 @@
             "open_issues": 9,
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8532,
+            "stars": 8533,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-accepted",
@@ -465,7 +465,7 @@
             "open_issues": 553,
             "owner": "validatorjs",
             "repo": "validator.js",
-            "stars": 23743,
+            "stars": 23744,
             "topics": [
               "hacktoberfest",
               "input",
@@ -499,11 +499,11 @@
             "id": 1156960719,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T16:21:11Z",
-            "open_issues": 407,
+            "last_commit": "2026-10-27T17:17:15Z",
+            "open_issues": 418,
             "owner": "millionco",
             "repo": "react-doctor",
-            "stars": 15050,
+            "stars": 15054,
             "topics": [
               "agents",
               "code-review",
@@ -536,7 +536,7 @@
             "open_issues": 6,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 896,
+            "stars": 899,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -745,11 +745,11 @@
             "id": 438419937,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T19:14:21Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-27T18:39:13Z",
+            "open_issues": 9,
             "owner": "openai",
             "repo": "openai-node",
-            "stars": 11241,
+            "stars": 11238,
             "topics": [
               "nodejs",
               "openai",
@@ -774,7 +774,7 @@
             "open_issues": 107,
             "owner": "anthropics",
             "repo": "anthropic-sdk-typescript",
-            "stars": 2154,
+            "stars": 2155,
             "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
@@ -801,7 +801,7 @@
             "open_issues": 281,
             "owner": "changesets",
             "repo": "changesets",
-            "stars": 12511,
+            "stars": 12518,
             "topics": []
           },
           "first_seen": "2026-08-28T23:01:12.201Z"
@@ -824,11 +824,11 @@
             "id": 10270250,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T19:12:26Z",
-            "open_issues": 1494,
+            "last_commit": "2026-10-27T15:08:39Z",
+            "open_issues": 1502,
             "owner": "react",
             "repo": "react",
-            "stars": 251872,
+            "stars": 251782,
             "topics": [
               "declarative",
               "frontend",
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:14:58.598Z",
+    "last_updated": "2026-10-27T18:40:18.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "The React developer's toolkit curated libraries, tools, and resources.",
